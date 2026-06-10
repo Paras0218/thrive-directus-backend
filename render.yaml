@@ -1,0 +1,71 @@
+# Render Blueprint (Infrastructure as Code) for the Directus backend.
+#
+# Deploy: Render Dashboard -> New + -> Blueprint -> connect the
+# Paras0218/thrive-directus-backend repo. Render reads this file, then prompts
+# you to fill the env vars marked `sync: false` (admin email/password, PUBLIC_URL).
+#
+# Docs: https://render.com/docs/blueprint-spec
+#
+# Plans / cost: the web service uses `starter` (~$7/mo) because a persistent
+# disk (for uploaded files) requires a paid instance and an always-on service.
+# To trial for free instead, set the web service `plan: free` and DELETE the
+# `disk:` block (uploads will be lost on every restart/redeploy — fine for a
+# quick test, not for production). For production file storage, prefer an
+# external S3-compatible bucket over a disk.
+
+services:
+  - type: web
+    name: thrive-directus
+    runtime: docker
+    plan: starter            # disk + always-on require a paid plan; see note above
+    region: oregon           # CHANGE to the region nearest you (must match the db below)
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /server/health
+    autoDeploy: true         # redeploy automatically on push to the connected branch
+    disk:
+      name: uploads
+      mountPath: /directus/uploads   # Directus' local storage root inside the container
+      sizeGB: 1
+    envVars:
+      # Cryptographic keys — generated once by Render and kept stable across deploys.
+      # (Changing SECRET invalidates all sessions/tokens, so let Render manage these.)
+      - key: KEY
+        generateValue: true
+      - key: SECRET
+        generateValue: true
+
+      # Database — wired automatically from the managed Postgres defined below.
+      - key: DB_CLIENT
+        value: pg
+      - key: DB_CONNECTION_STRING
+        fromDatabase:
+          name: thrive-directus-db
+          property: connectionString
+
+      # First admin user (created on first bootstrap). Set these in the dashboard.
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false
+
+      # Public URL of this service. After the first deploy, set this to
+      # https://<your-service>.onrender.com so admin links/assets resolve correctly.
+      - key: PUBLIC_URL
+        sync: false
+
+      # Optional: enable realtime/websockets.
+      - key: WEBSOCKETS_ENABLED
+        value: "true"
+
+      # Optional CORS — uncomment and set to your Astro site's origin if the
+      # frontend calls this API directly from the browser.
+      # - key: CORS_ENABLED
+      #   value: "true"
+      # - key: CORS_ORIGIN
+      #   sync: false
+
+databases:
+  - name: thrive-directus-db
+    plan: basic-256mb        # cheapest persistent Postgres; use `free` for a 90-day trial db
+    region: oregon           # MUST match the web service region for internal networking
+    ipAllowList: []          # internal connections only (no public access to the db)

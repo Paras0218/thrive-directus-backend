@@ -3,9 +3,13 @@
 // working unchanged. Strips Directus-managed/system fields so inserts succeed.
 import fs from 'node:fs';
 
-const BASE = 'http://localhost:8055';
-const ADMIN_EMAIL = 'admin@example.com';
-const ADMIN_PASSWORD = '387f034d76d94f96Aa1!';
+// Target + credentials default to local dev, but can be overridden via env vars
+// to import into a remote instance, e.g. the Render deployment:
+//   $env:DIRECTUS_URL="https://thrive-directus.onrender.com"
+//   $env:ADMIN_PASSWORD="<the password you set on Render>"; node import-data.mjs
+const BASE = process.env.DIRECTUS_URL || 'http://localhost:8055';
+const ADMIN_EMAIL = process.env.ADMIN_EMAIL || 'admin@example.com';
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || '387f034d76d94f96Aa1!';
 const STATIC_TOKEN = fs.readFileSync('E:/directus-cms/static-token.txt', 'utf8').trim();
 const EXPORT = JSON.parse(fs.readFileSync('E:/directus-cms/data-export.json', 'utf8'));
 
