@@ -1,0 +1,12 @@
+{
+  "name": "directus-cms",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "bootstrap": "directus bootstrap",
+    "start": "directus start"
+  },
+  "dependencies": {
+    "directus": "^11.17.4"
+  }
+}

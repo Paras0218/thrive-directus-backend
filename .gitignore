@@ -1,0 +1,40 @@
+# --- Secrets / credentials (never commit) ---
+.env
+.env.*
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+static-token.txt
+**/static-token.txt
+
+# --- Dependencies ---
+node_modules/
+**/node_modules/
+
+# --- Database dumps & data backups ---
+*.sql
+*.dump
+
+# --- Archives ---
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# --- Directus runtime ---
+uploads/
+**/uploads/
+.directus/
+
+# --- Logs ---
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

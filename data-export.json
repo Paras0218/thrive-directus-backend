@@ -1,0 +1,2566 @@
+{
+  "about": {
+    "singleton": true,
+    "data": {
+      "id": 1,
+      "seo_title": "About Us | ThriveAgency Clone test",
+      "seo_description": "We are a growth-obsessed digital marketing team pairing creative strategy with engineering rigor to drive measurable revenue.",
+      "hero_eyebrow": "About The Agency",
+      "hero_heading": "Growth-obsessed marketers, engineering-grade execution.",
+      "hero_subheading": "We blend creative strategy with a fast, headless tech stack to turn marketing spend into predictable, compounding revenue for ambitious brands.",
+      "story_heading": "Our Story",
+      "story_body": "Founded on a simple belief — that marketing should be measurable — we set out to close the gap between brand storytelling and hard revenue.\n\nToday we run full-funnel programs for companies that want more than vanity metrics. Every campaign is wired to a structured data layer, so the impact of every dollar is transparent and accountable.",
+      "stat1_value": "12+",
+      "stat1_label": "Years of combined expertise",
+      "stat2_value": "$250M+",
+      "stat2_label": "Client revenue influenced",
+      "stat3_value": "500+",
+      "stat3_label": "Campaigns launched",
+      "stat4_value": "98%",
+      "stat4_label": "Client retention rate",
+      "mission_heading": "Our Mission",
+      "mission_body": "To be the most accountable growth partner our clients have ever worked with — obsessed with outcomes, allergic to fluff, and relentless about the numbers that actually move the business.",
+      "cta_heading": "Ready to drive real growth? yesyyyyy",
+      "cta_text": "Tell us about your objectives and we will put together a tailored proposal.",
+      "cta_button_label": "Get Your Free Proposal",
+      "cta_button_url": "/"
+    }
+  },
+  "contact_page": {
+    "singleton": true,
+    "data": {
+      "id": 1,
+      "status": "published",
+      "map_location": {
+        "type": "Point",
+        "coordinates": [
+          76.74320736418679,
+          30.672790525481204
+        ]
+      },
+      "full_name": "Thrive Agency",
+      "email": "paras@thrive.com",
+      "description": "We'd love to hear from you."
+    }
+  },
+  "dms": {
+    "singleton": true,
+    "data": {
+      "id": 1,
+      "seo_title": "Digital Marketing Services | Thrive",
+      "seo_description": "Grow your client base with Thrive’s data-driven, full-service digital marketing services — SEO, PPC, social, web design and more. Free proposal.",
+      "hero_h1": "Digital Marketing Services",
+      "hero_sub": "Grow Your Client Base With Data-Driven and Targeted Strategies",
+      "hero_form_button": "GET MY FREE PROPOSAL",
+      "intro_h2": "A Strategy-First Digital Marketing Agency to Grow Your Business",
+      "intro_body": "Our results-driven digital marketing company maps your fastest path to growth by providing you with a custom strategy. We start with a deep audit to help us build a channel-by-channel plan to increase your qualified leads and revenue.\n\nThrive Internet Marketing Agency is a versatile and full-service digital marketing agency that doesn’t rely on smoke and mirrors to attract new clients. Instead, we use our deep search engine optimization (SEO) expertise and artificial intelligence (AI)-driven strategies to help businesses achieve long-term, sustainable growth.\n\nInvest in our affordable digital marketing services and get maximum return on your investment.",
+      "intro_video_image": "/assets/dms/turningcomplex-thumb.png",
+      "intro_cta_text": "GROW MY BUSINESS NOW",
+      "intro_cta_url": "#contactForm",
+      "reviews_g_num": "150+",
+      "reviews_g_label": "Google Reviews",
+      "reviews_c_num": "100+",
+      "reviews_c_label": "Clutch Reviews",
+      "reviews_note": "Over 1,000 Client Reviews",
+      "impact_h2": "The Thrive Impact: Measurable Wins Across Industries",
+      "impact_sub": "We Don’t Just Execute, We Deliver Real Results",
+      "impact_body": "Many internet marketing content agencies rely on a one-size-fits-all approach, often offering the same strategy and cookie-cutter website as your competitor.\n\nThrive is not a static company. We have the experience and team of professionals to build a custom website and launch multiple digital marketing services to assist businesses of any size and industry.",
+      "impact_cta_text": "READ MORE CASE STUDIES",
+      "impact_cta_url": "/case-studies/",
+      "how_h2": "How Internet Marketing Services Drive Business Growth",
+      "how_sub": "Engage Your Target Customers at the Right Time on the Right Platform",
+      "how_body": "As long as your business maintains a strong digital presence, your customers will always find you. Affordable digital marketing services provide businesses of all sizes with an opportunity to:",
+      "how_list": "Market their brand 24/7 at a low cost.\nExpand market reach while maintaining a robust relationship with existing clients.\nAttract targeted audience segments, irrespective of time differences or specific locations.",
+      "how_body2": "Unlike other providers of internet marketing services that overpromise but fail to execute, Thrive earns your business day after day with measurable results. Partner with our internet marketing agency and drive more leads and conversions.",
+      "how_rank1": "#1 in Google Search",
+      "how_rank2": "#1 in Google Maps Search",
+      "how_rank3": "#1 in ChatGPT Search",
+      "how_image": "/assets/dms/buisness-growth.jpg",
+      "testi_h3": "What Our Clients Say About Working With Thrive",
+      "testi_sub": "Real Feedback. Real Growth.",
+      "testi_cta_text": "HEAR MORE FROM OUR CLIENTS",
+      "testi_cta_url": "/real-reviews-from-real-people/",
+      "tools_h2": "Thrive’s Proprietary Tools for High-Converting Internet Marketing Services",
+      "tools_sub": "Maximize Results With Data-Driven Precision and Automation",
+      "tools_body": "At Thrive, we go beyond traditional digital marketing strategies. Our custom-built tools simplify complex digital marketing services, empowering you to make faster, smarter decisions.",
+      "services_h2": "Thrive’s Digital Marketing Services",
+      "services_sub": "Build Brand Recognition as an Industry Leader and Increase Profitability",
+      "services_cta_text": "GET STARTED NOW",
+      "services_cta_url": "#contactForm",
+      "services_cta2_text": "GROW MY LEADS NOW",
+      "services_cta2_url": "#contactForm",
+      "whyuse_h2": "Why Your Business Should Be Using Digital Marketing Services",
+      "whyuse_sub": "Engage More Clients and Rank High on Search Results",
+      "whyuse_body": "The industry is growing at an unprecedented rate. With more companies investing their time and resources in online marketing, relying on traditional advertising tactics is no longer enough to win over customers.\n\nA trusted internet marketing company can help you gain a holistic view of your customer journey and competition. Through comprehensive digital audits and targeted online marketing campaigns, you can uncover new growth opportunities and create customer experiences that inspire loyalty and long-term success.\n\nBuild a robust digital foundation with value-driven internet marketing services. Expert digital marketing tactics help you:",
+      "whyuse_list": "Save time, money and resources\nAcquire huge ROI\nTrack online marketing campaign results\nAdjust digital marketing campaign strategies based on analytics and data\nLeverage precise audience targeting\nBuild stellar brand reputation across online channels\nMaximize various customer touchpoints\nPromote greater consumer engagement\nDrive profitable long-term growth\nImprove conversion rates",
+      "whyuse_body2": "Don’t waste your investment in digital campaigns and marketing techniques that do not deliver measurable results. Partner with our online advertising company today and establish your market dominance.",
+      "whyuse_cta_text": "BUILD MY DIGITAL SUCCESS",
+      "whyuse_cta_url": "#contactForm",
+      "whychoose_h2": "Why Choose Thrive As Your Digital Marketing Agency",
+      "whychoose_sub": "Boost Your Revenue Growth Rate and Achieve Online Success",
+      "whychoose_body": "Thrive is an award-winning internet marketing company that provides goal-oriented website marketing services and advertising solutions. Our primary focus is to help businesses increase their client retention rate and maximize conversion opportunities.\n\nTrust us to give our full commitment to your brand’s digital success. Choose our inbound marketing services and gain the following advantages (and so much more):",
+      "whychoose_cta_text": "BUILD MY DIGITAL SUCCESS",
+      "whychoose_cta_url": "#contactForm",
+      "faqs_h2": "Digital Marketing Services FAQs",
+      "cta_h2": "Ready to Grow Your Business?",
+      "cta_text": "If you’re looking for the best marketing agency that delivers real results, not just clicks and impressions, you’re in the right place. Contact us today to work with a results-driven digital marketing agency.",
+      "cta_btn1_text": "GET FREE PROPOSAL",
+      "cta_btn1_url": "#contactForm",
+      "cta_btn2_text": "CALL 888.342.0534"
+    }
+  },
+  "dms_cases": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "name": "Georgia Bone & Joint",
+        "stat1_num": "+557%",
+        "stat1_label": "Monthly Leads",
+        "stat2_num": "+212%",
+        "stat2_label": "Ad Conversions",
+        "description": "This multi-location orthopedic practice group partnered with our digital marketing agency to drive more qualified leads through SEO and paid advertising. Within 12 months of the partnership, Georgia Bone & Joint achieved a historical 20% conversion rate, averaging 75 new patients per month.",
+        "image": "/assets/dms/georgia-bonecse.png",
+        "url": "/case-studies/"
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "name": "Image 3D",
+        "stat1_num": "+350%",
+        "stat1_label": "Sales Volume",
+        "stat2_num": "+451%",
+        "stat2_label": "Unit Sales",
+        "description": "Image 3D, a retro toy manufacturing company in the U.S., sought to boost its monthly sales and overall digital presence. After two months into the Amazon marketing strategy, Image 3D experienced a staggering 350% increase in sales volume and a 182% year-over-year increase in total purchases.",
+        "image": "/assets/dms/IMAGE-3D-cover.png",
+        "url": "/case-studies/"
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "name": "Brazos Higher Education",
+        "stat1_num": "+300%",
+        "stat1_label": "Average Monthly Website Visits",
+        "stat2_num": "+40%",
+        "stat2_label": "Total Loan Volume",
+        "description": "Brazos Higher Education needed a comprehensive digital marketing strategy to expand its student loan portfolio. Thrive fully reinvented Brazos’ entire online marketing campaign approach, resulting in a record-high 40% uptick in one-year loan volume and a 300% increase in monthly site visits.",
+        "image": "/assets/dms/brazothumb.png",
+        "url": "/case-studies/"
+      }
+    ]
+  },
+  "dms_faqs": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "question": "What is Digital Marketing?",
+        "answer": "Digital marketing encompasses all activities of marketing an organization, business or brand across digital channels on the Internet. Strategies and tactics are crafted to target specific online audiences across a variety of internet-connected devices. All digital marketing agencies focus on optimization across search engines (Google and Bing). Top companies also prioritize AI visibility and engagement across social media, email marketing, website design and integrated applications."
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "question": "What is omnichannel personalization and how does Thrive use it?",
+        "answer": "Omnichannel personalization is the process of delivering a consistent, personalized customer experience across all platforms. Thrive uses this approach to unify messaging, data and automation across channels. This is especially important in technology marketing services, where customers interact multiple times with a brand during longer buyer journeys. Our professionals integrate data and automation to deliver cohesive, customer-centric strategies that drive revenue."
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "question": "What does a Digital Marketer do?",
+        "answer": "A digital marketer is a marketing specialist who understands how to develop and deploy effective marketing strategies online. They understand connecting with an online audience and ensure your brand engages with your consumer from the first point of contact through after-sales service."
+      },
+      {
+        "id": 4,
+        "status": "published",
+        "sort": 4,
+        "question": "Would my business benefit from Digital Marketing Services?",
+        "answer": "Every single brand needs an online representation of its business. However, your digital presence won’t have any impact if you don’t market the business successfully. Businesses across industries benefit from an ongoing, comprehensive digital marketing strategy and the support of an expert marketing team."
+      },
+      {
+        "id": 5,
+        "status": "published",
+        "sort": 5,
+        "question": "Do you provide a custom digital marketing framework?",
+        "answer": "Yes. Our internet marketing company takes a 360-degree approach. We review your current strategies and digital presence, set KPIs, identify your brand personality and integrate your customer experience at all levels of strategy-building to create a structured framework that optimizes all your digital touchpoints."
+      },
+      {
+        "id": 6,
+        "status": "published",
+        "sort": 6,
+        "question": "What can I expect from Thrive’s campaign monitoring and evaluation process?",
+        "answer": "We establish your campaign metrics and perform regular monitoring and evaluation. Using Google Analytics, we analyze results and adjust your online marketing tactics to improve audience targeting and returns. We believe in leveraging data to gain momentum and drive growth."
+      },
+      {
+        "id": 7,
+        "status": "published",
+        "sort": 7,
+        "question": "How cost-effective is Digital Marketing compared with Traditional Marketing?",
+        "answer": "Digital marketing is cost-effective because you can directly reach your ideal audience with your message. Traditional marketing casts a wide net; inbound marketing takes a targeted approach and engages the consumer at the right time. You can easily measure your efforts and associated costs, allowing you to mitigate unnecessary spending."
+      },
+      {
+        "id": 8,
+        "status": "published",
+        "sort": 8,
+        "question": "How do you identify a successful Digital Marketing Company?",
+        "answer": "Look for a provider that takes the time to assess your existing and future marketing needs. An experienced agency won’t promise immediate wins because digital strategies take time. Choose a provider with proven successes, client testimonials, case studies and outstanding reviews. Be cautious about companies offering a quick fix."
+      },
+      {
+        "id": 9,
+        "status": "published",
+        "sort": 9,
+        "question": "What makes your digital marketing company stand out?",
+        "answer": "Unlike other providers, Thrive focuses on building strong client relationships and achieving tangible results. As a digital advertising company with over two decades of experience, we deliver substance, not empty promises, with affordable services that maximize your budget and ROI."
+      },
+      {
+        "id": 10,
+        "status": "published",
+        "sort": 10,
+        "question": "What types of marketing services does Thrive offer?",
+        "answer": "Thrive provides full-spectrum website marketing services designed to help businesses attract, engage and convert customers online. Our offerings include SEO, PPC, social media marketing, content creation, email campaigns and website optimization."
+      },
+      {
+        "id": 11,
+        "status": "published",
+        "sort": 11,
+        "question": "How does your internet marketing content team drive results?",
+        "answer": "Our company creates high-quality, data-driven content that aligns with user intent and your brand’s goals. From blog posts and landing pages to video scripts and infographics, every asset supports your conversion optimization efforts."
+      },
+      {
+        "id": 12,
+        "status": "published",
+        "sort": 12,
+        "question": "What role does a digital marketing expert play in my success?",
+        "answer": "An expert analyzes your data, identifies growth opportunities and implements proven tactics across channels, ensuring your digital marketing solutions are continuously refined for better engagement and ROI."
+      },
+      {
+        "id": 13,
+        "status": "published",
+        "sort": 13,
+        "question": "How do digital advertising services help my business grow?",
+        "answer": "Thrive’s digital marketing methods focus on optimizing ad copy, visuals and bidding strategies to boost visibility and maximize your return on ad spend."
+      }
+    ]
+  },
+  "dms_reasons": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "title": "Data-Driven Marketing Solutions",
+        "description": "Deliver the right message to your target audience with results-oriented digital marketing services. We analyze your brand’s strengths, weaknesses and maximize opportunities to launch methods that drive measurable performance.",
+        "icon": "bar-chart-3"
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "title": "Industry Experts",
+        "description": "Our digital marketing professionals boast decades of industry expertise. We track the latest innovations, develop goal-oriented strategies and ensure all our campaigns meet search engine guidelines.",
+        "icon": "award"
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "title": "No Long-Term Commitment",
+        "description": "Our custom digital marketing services are flexible. Whether you scale up during peak seasons, shift focus toward lead generation or temporarily reduce spend, our experts adapt your strategy accordingly.",
+        "icon": "unlock"
+      },
+      {
+        "id": 4,
+        "status": "published",
+        "sort": 4,
+        "title": "Human-Driven AI",
+        "description": "Our team leverages AI-driven insights to uncover opportunities for growth. Unlike purely automated systems, our omnichannel personalization approach remains deeply human, guided by experience and strategic thinking.",
+        "icon": "cpu"
+      },
+      {
+        "id": 5,
+        "status": "published",
+        "sort": 5,
+        "title": "Cross-Industry Expertise",
+        "description": "We partner with businesses of all types, sizes and budgets. Our broad experience across multiple industries lets us understand unique market challenges and deliver the best digital marketing services.",
+        "icon": "layers"
+      },
+      {
+        "id": 6,
+        "status": "published",
+        "sort": 6,
+        "title": "Competitive Pricing",
+        "description": "We build our internet marketing services based on your financial capacity, so you acquire the online attention you need without significant expenses. We also provide white label services that offer huge ROI.",
+        "icon": "badge-dollar-sign"
+      }
+    ]
+  },
+  "dms_services": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "title": "Search Engine Optimization (SEO)",
+        "description": "Our internet marketing company goes beyond surface-level SEO. We combine AI-powered automation with white hat SEO practices to help you achieve higher organic rankings and ensure your brand remains visible in AI search results.",
+        "image": "/assets/menu/services/SEO.svg",
+        "url": "/digital-marketing-services/search-engine-optimization-seo/"
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "title": "Franchise SEO",
+        "description": "Amplify market reach and improve your AI visibility with Thrive’s franchise SEO services. Our team leverages AI-driven insights to ensure both your corporate site and individual franchise pages rank prominently in organic search and AI responses.",
+        "image": "/assets/menu/services/SEO.svg",
+        "url": "/digital-marketing-services/franchise-seo/"
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "title": "Local SEO",
+        "description": "Generate more leads and sales with Thrive’s hyperlocal digital marketing services. Our internet marketing company uses automation to reduce manual efforts while maintaining human oversight to implement proven strategies that boost local visibility.",
+        "image": "/assets/menu/services/SEO.svg",
+        "url": "/digital-marketing-services/local-seo/"
+      },
+      {
+        "id": 4,
+        "status": "published",
+        "sort": 4,
+        "title": "Technical SEO",
+        "description": "Establish a strong online foundation with on-point technical SEO and internet marketing services. Our technical SEO experts run crawl error reports, check your HTTPS status codes and eliminate duplicate content to increase crawlability and indexability.",
+        "image": "/assets/menu/services/SEO.svg",
+        "url": "/digital-marketing-services/technical-seo/"
+      },
+      {
+        "id": 5,
+        "status": "published",
+        "sort": 5,
+        "title": "Link Building",
+        "description": "Acquire a steady stream of traffic from high-authority websites and increase consumer trust. Our internet marketing agency leverages guest posts and collaborations to build quality backlinks that drive more sales.",
+        "image": "/assets/menu/services/link-building-img.svg",
+        "url": "/digital-marketing-services/link-building/"
+      },
+      {
+        "id": 6,
+        "status": "published",
+        "sort": 6,
+        "title": "Web Design & Development",
+        "description": "Our digital marketing service team builds custom, mobile-ready and search engine-optimized websites that support your campaigns — with clear CTAs, simplified forms and high-quality content for your persona.",
+        "image": "/assets/menu/services/web-design-img.svg",
+        "url": "/digital-marketing-services/web-design/"
+      },
+      {
+        "id": 7,
+        "status": "published",
+        "sort": 7,
+        "title": "Custom Website Design",
+        "description": "Capture your target audience’s attention with a professional custom web design. Our WordPress experts analyze your industry demands, design ADA-compliant websites and provide ongoing site maintenance.",
+        "image": "/assets/menu/services/web-design-img.svg",
+        "url": "/digital-marketing-services/custom-website-design/"
+      },
+      {
+        "id": 8,
+        "status": "published",
+        "sort": 8,
+        "title": "Social Media Marketing",
+        "description": "Our internet marketing services include social media campaigns that help you build strong brand awareness. We conduct competitor benchmarking and develop strategies that drive measurable growth across all social platforms.",
+        "image": "/assets/menu/services/social-media-1.svg",
+        "url": "/digital-marketing-services/social-media/"
+      },
+      {
+        "id": 9,
+        "status": "published",
+        "sort": 9,
+        "title": "Pay Per Click (PPC) Management",
+        "description": "Reach highly-targeted audience segments through data-driven PPC campaigns. Our certified specialists conduct keyword research, optimize landing pages and use remarketing and A/B testing to drive qualified leads.",
+        "image": "/assets/menu/services/pay-per-click-img.svg",
+        "url": "/digital-marketing-services/pay-per-click-ppc/"
+      },
+      {
+        "id": 10,
+        "status": "published",
+        "sort": 10,
+        "title": "Video Production",
+        "description": "Create a buzz with captivating, SEO-optimized video content. Our agency handles everything from location scouting and scriptwriting to motion graphics and video editing.",
+        "image": "/assets/menu/services/media-production-img.svg",
+        "url": "/digital-marketing-services/video-production-services/"
+      },
+      {
+        "id": 11,
+        "status": "published",
+        "sort": 11,
+        "title": "Content Writing",
+        "description": "Our content specialists stay up-to-date with market trends to adhere to Google’s standards. We write headlines that pack a punch, utilize high-performing keywords and optimize content for organic and AI search.",
+        "image": "/assets/menu/services/link-icon-img.svg",
+        "url": "/digital-marketing-services/content-writing/"
+      },
+      {
+        "id": 12,
+        "status": "published",
+        "sort": 12,
+        "title": "Online Reputation Management (ORM)",
+        "description": "Strengthen your brand reputation and increase word-of-mouth referrals with proactive reputation management — pay-for-performance solutions that automate review monitoring, generation and response management.",
+        "image": "/assets/menu/services/Commercial.svg",
+        "url": "/digital-marketing-services/online-reputation-management/"
+      },
+      {
+        "id": 13,
+        "status": "published",
+        "sort": 13,
+        "title": "Amazon Marketing Services (AMS)",
+        "description": "Rank high on Amazon and drive more purchases with a results-driven AMS strategy combining Amazon SEO, Amazon PPC and storefront and branding to improve visibility and sales.",
+        "image": "/assets/menu/services/online-marketplace-img.svg",
+        "url": "/digital-marketing-services/amazon-marketing/"
+      },
+      {
+        "id": 14,
+        "status": "published",
+        "sort": 14,
+        "title": "eCommerce Marketing",
+        "description": "Offer round-the-clock convenience with a high-performing eCommerce site. We provide eCommerce SEO and eCommerce PPC solutions to drive top-of-funnel traffic to your website.",
+        "image": "/assets/menu/services/ecommerce-img.svg",
+        "url": "/digital-marketing-services/ecommerce-marketing/"
+      },
+      {
+        "id": 15,
+        "status": "published",
+        "sort": 15,
+        "title": "Conversion Rate Optimization (CRO)",
+        "description": "Move more page visitors to the bottom of the sales funnel with Thrive’s CRO services — AI-optimized, clutter-free landing pages and verified payment systems to improve conversion rates.",
+        "image": "/assets/menu/services/Commercial.svg",
+        "url": "/digital-marketing-services/conversion-rate-optimization/"
+      },
+      {
+        "id": 16,
+        "status": "published",
+        "sort": 16,
+        "title": "Email Marketing",
+        "description": "Keep your brand top of mind with personalized email marketing campaigns. We build your subscriber list, test campaigns before delivery and create a curiosity gap in your emails.",
+        "image": "/assets/menu/services/link-icon-img.svg",
+        "url": "/digital-marketing-services/email-marketing-services/"
+      },
+      {
+        "id": 17,
+        "status": "published",
+        "sort": 17,
+        "title": "eCommerce Web Design",
+        "description": "Create immersive brand experiences with a conversion-focused eCommerce web design that prioritizes accessibility, benefit-driven copy, impactful visuals and intuitive navigation.",
+        "image": "/assets/menu/services/web-design-img.svg",
+        "url": "/digital-marketing-services/ecommerce-website-design/"
+      },
+      {
+        "id": 18,
+        "status": "published",
+        "sort": 18,
+        "title": "Web Hosting",
+        "description": "Our agency provides network monitoring, system backup and restoration, unlimited bandwidth and data transfer, along with a free SSL certificate to enhance your site’s security.",
+        "image": "/assets/menu/services/web-design-img.svg",
+        "url": "/digital-marketing-services/web-design/website-hosting/"
+      }
+    ]
+  },
+  "dms_strategy": {
+    "singleton": true,
+    "data": {
+      "id": 1,
+      "seo_title": "Digital Marketing Strategy Development Services | Thrive",
+      "seo_description": "Thrive's digital marketing strategy development services map a clear, data-driven path to your goals across SEO, PPC, content and social - no long-term commitment.",
+      "hero_h1": "Digital Marketing Strategy Development",
+      "hero_sub": "Build a Clear Roadmap to Online Growth",
+      "hero_form_button": "GET MY FREE PROPOSAL",
+      "why_eyebrow": "Uncover Market Opportunities and Increase Your Revenue",
+      "why_h2": "Why You Need to Start With Strategy",
+      "why_body": "Marketing your brand without an internet marketing strategy or using a weak online marketing plan is how to lose money, waste time and get nowhere.",
+      "allows_title": "A Concrete Digital Marketing Strategy Allows You To:",
+      "allows_list": "Determine marketing gaps\nExpand your reach\nImprove audience targeting\nSave time, money and resources\nIncrease traffic, leads and conversions\nGenerate better, faster revenue\nDiscover more opportunities to build brand awareness\nTake appropriate actions\nMeasure campaign performance and brand success\nBuild a brand reputation\nScale business\nCompete with industry giants\nAccomplish business goals\nManage your financial resources",
+      "fail_title": "Without a Well-Defined, Effective Online Marketing Strategy, You Fail To:",
+      "fail_list": "Define clear goals\nIdentify and fix digital marketing mistakes\nGrow your sales pipeline\nLeverage available marketing channels\nOutperform your competitors\nAllocate and spend your digital marketing budget wisely\nBuild your customer base\nEstablish brand confidence\nDeliver sales leads\nIncrease traffic flows and conversions\nGrow your industry expertise\nProvide excellent customer service\nEngage with prospects across platforms\nTake advantage of marketing trends and sales opportunities",
+      "guide_h2": "You Will Run Into Obstacles Along the Way, But We Guide You to a Clear Path",
+      "guide_sub": "Define Your Long-Term Goals and Achieve Them",
+      "cta_band_text": "Get My Free Strategy Proposal",
+      "cta_band_url": "/",
+      "approach_eyebrow": "Visualize a Clear Marketing Direction",
+      "approach_h2": "Thrive's Strategy Approach",
+      "approach_body": "Thrive's internet marketing consultant services are designed to help you get from your existing market position (point A) to a competitive industry standing (point B).",
+      "approach_items": "No Defined Goal | Our internet marketing strategy company helps you determine your objectives to set your marketing efforts in the right direction.\nEfforts Not Getting to Goal | We pinpoint why your current efforts aren't reaching your targets and recalibrate your strategy to close the gap between activity and results.\nToo Many Goals. Thin Resources. | Get in touch with our digital strategy company and let's talk about how to best achieve your marketing objectives, depending on your unique situation.",
+      "industry_eyebrow": "Choose a Reliable Firm That Maps Out Every Step",
+      "industry_h2": "Our Marketing Strategy Agency Considers Your Unique Industry",
+      "industry_body": "Six top considerations when choosing a digital strategy partner:",
+      "industry_items": "Web Audit Practices | A thorough audit of your website's technical health, content and performance to establish your starting point.\neCommerce Marketing Strategy | Tailored plans that grow online store traffic, conversions and revenue.\nOnline Marketplace Advertising Plan | Targeted strategies for Amazon, Walmart and other marketplaces where your buyers shop.\nMarketing Flexibility | Adaptable plans that scale with your budget, capacity and changing market conditions.\nAdvertising Strategy | Paid media planning across search, social and display to reach the right audience profitably.\nSEO Website Strategy | A search-first roadmap that improves rankings, organic traffic and qualified leads.",
+      "industry_footer": "Let us show you how to develop a unified social media marketing strategy and web marketing plan that converts leads into sales.",
+      "included_eyebrow": "Get a Comprehensive Package of Resources",
+      "included_h2": "What's Included in Your Web Marketing Strategy?",
+      "included_body": "Once you partner with us, we provide a complete marketing strategy plan that maps out a clear path to your goal, plus an executive summary and video for your team to review:",
+      "included_s1_title": "Section 1: Scorecard Results and Recommendation",
+      "included_s1_list": "Custom \"Marketing Scorecard\" with detailed explanation\nTop business goals and supporting 2nd-tier goals",
+      "included_s2_title": "Section 2: Solutions and Plan",
+      "included_s2_list": "Recommended solutions\nThe plan on how to accomplish the solutions\nWhat phases we recommend, in which order",
+      "included_s3_title": "Section 3: Worksheet and Investment",
+      "included_s3_list": "A clear worksheet on your recommended strategy and how each channel contributes to your goal\nOne-page snapshot\nInvestment to accomplish the plan",
+      "case_eyebrow": "Strengthen Your Brand and Gain a Competitive Edge",
+      "case_h2": "A Digital Strategy Firm That Delivers",
+      "case_body": "Need help with your corporate marketing strategy? Whether you own a startup, enterprise or multiple-location business, a Thrive digital strategy consultant can develop the right internet marketing strategies for your specific needs and demands.\n\nTo give you a clear picture of how our internet marketing consultant services can improve your existing metrics and overall market standing, here's an overview of what we've accomplished over the last year for a multi-location property restoration company:",
+      "case_label": "Case Study",
+      "case_desc": "We've divided the franchise marketing plan into phases and executed the necessary optimizations and updates. Within a year, we generated a total of 89,422 leads across 180 locations and increased the client's organic traffic by approximately 57 percent.",
+      "case_stat1_num": "+89,422",
+      "case_stat1_label": "Total Leads",
+      "case_stat2_num": "+57.4%",
+      "case_stat2_label": "Organic Traffic",
+      "case_stat3_num": "+13.5%",
+      "case_stat3_label": "PPC Conversion Rate",
+      "focus_pre_h2": "An Advanced Strategy Points You in the Right Direction",
+      "focus_eyebrow": "We Identify Exactly Which Areas Need Attention",
+      "focus_h2": "6 Key Areas of Focus for Digital Marketing Strategy Development",
+      "focus_body": "To ensure we outline a digital marketing plan tailored to your brand, we ask you to complete a self-assessment questionnaire based on six core areas:",
+      "focus_items": "Brand and Business | Evaluates the level of your digital presence, including competitive position, online reputation and customer relationship management (CRM).\nContent and Engagement | Assesses your brand engagement, social media marketing strategy, email marketing strategy and content strategy SEO performance.\nInternal Team or Partners | Determines your capacity to generate online marketing ideas and perform necessary web optimization processes.\nTechnology and Software Integration | Identifies your organization's major challenges in tracking campaign performance metrics.\nLead Sources | Determines your key traffic sources and the availability of essential marketing channels.\nSuccess Measurement | Evaluates your campaign performance based on factors such as customer lifetime value (CLV), lead volume and website traffic.",
+      "focus_footer": "Our consultants rate your performance on each criterion and identify the gap between your self-assessment and the Thrive score, so we can guide you on where you should be for your industry, growth phase and location.",
+      "formula_eyebrow": "Drive Gains at Both Ends of Your Sales Funnel",
+      "formula_h2": "Thrive's Growth Formula Delivers the Most Effective Results",
+      "formula_body": "Our digital strategy agency developed a growth formula to ensure our combined digital marketing ideas do not just attract leads but also turn customers into brand advocates:",
+      "formula_items": "STRATEGIZE | We determine your goal from the get-go and identify your target audience to create all-inclusive web marketing strategies that capture every stage of your sales funnel.\nATTRACT | We lay out your customer journey map and choose the channels to draw prospects toward your brand - SEO, social media, content marketing and PPC.\nCONVERT | We prioritize the components and processes - landing pages, CTAs and customer-centric content - that turn site visitors into leads.\nCLOSE | We devise a plan with actionable insights that highlight your unique value proposition and move sales-qualified leads to paying customers.\nDELIGHT | We create long-term strategies focused on personalized customer experiences that retain loyal clients and turn them into brand advocates.",
+      "services_eyebrow": "We Zero In on the Digital Marketing Services That Fit Your Business",
+      "services_h2": "We Help You Decide Which Approach Is Right for You",
+      "services_body": "At Thrive, we provide a unified digital marketing strategy plan that addresses your primary goal. These are some of the components that may be included, depending on your needs, budget and capacity:",
+      "services_items": "Website Audit Services\nSEO Strategy\nSEO Keyword Strategy\nSEO Content Strategy\nPPC Strategy\nSEM Strategy\nAmazon Marketing Strategy\nSocial Media Strategy Services\nLink Building Strategy\nReputation Management Strategy\neCommerce Marketing Plan\nFranchise Marketing Strategy",
+      "process_eyebrow": "A Healthy Money Tree Needs Nurturing From the Roots to the Branches",
+      "process_h2": "Thrive's Marketing Strategy Process",
+      "process_body": "As your dedicated marketing strategy consultant, we treat our partnership as if we are nurturing a money tree. To strengthen it, our internet marketing plan comprises three critical stages:",
+      "phases_items": "PHASE 1: ROOT FIXES | Information Gathering, Assessments and Interviews | We perform website SEO analysis and in-depth campaign evaluation to determine your key traffic sources and the technical SEO factors affecting your digital presence - site speed, server settings, GMB listings, 404s, backlink profile and trust signals.\nPHASE 2: TRUNK GROWTH | Analysis and Recommendations | We analyze the key metrics from Phase 1 and determine the best approach to optimize your site architecture, content, CTAs, keyword strategy, social profiles, landing pages and email performance.\nPHASE 3: BRANCH CARE | Presentation of the Strategy | We leverage the data from the previous phases to design and present a holistic digital marketing business plan that maximizes results from your SEO, ads, email, social and reputation management.",
+      "process_footer": "Let us help you grow a healthy money tree. Contact us today to discuss each component of your marketing strategy plan.",
+      "whychoose_eyebrow": "Leverage Our Industry Expertise and Knowledge",
+      "whychoose_h2": "Why Choose Thrive for Your Digital Marketing Business Plan",
+      "whychoose_body": "The development of a digital marketing strategy is a crucial process that requires rigorous research and analysis. Here's what you can expect when you partner with our digital strategy agency:",
+      "reasons_items": "Multidisciplinary Team | A full bench of specialists across SEO, PPC, web, social and content collaborate on your strategy.\nNo Commitment Necessary | Take our marketing strategy plan and implement it yourself, work with another agency or partner with us - no long-term contract required.\nEstablished Reputation | Since 2005 we've earned thousands of reviews and industry awards for delivering measurable results.\nUnified Plan Across Delivery Teams | One cohesive strategy keeps every delivery team aligned to the same goals and KPIs.\nCustom Marketing Strategy Packages | Plans are tailored to your industry, budget and growth phase - never one-size-fits-all.\nHolistic Strategy Approach | We look at your entire funnel so every channel works together toward your business goals.",
+      "faqs_h2": "Digital Strategy Development FAQs",
+      "faqs_items": "What does a marketing strategy agency do? | A marketing strategy agency researches your market, audience and competitors, then maps a data-driven plan that aligns the right channels, budget and tactics to your business goals.\nWhy is digital strategy development important? | Without a defined strategy you waste budget and time. A strategy uncovers opportunities, sets clear goals and measures performance so every dollar drives growth.\nHow do you measure the success of a marketing strategy for a website? | We track KPIs tied to your goals - organic traffic, leads, conversion rate, customer lifetime value and ROI - and benchmark them against your industry.\nHow does a strategic digital marketing approach work? | We assess your starting point, identify gaps, prioritize fixes and growth opportunities in phases, then execute and refine based on performance data.\nWhat industries benefit from professional online website marketing strategies? | Any industry - startups, enterprises, eCommerce, franchises and multi-location businesses - benefits from a tailored, goal-driven strategy.\nHow long does it take to see results from a digital marketing growth strategy? | Timelines vary by channel and competition; paid media can show results quickly, while SEO typically compounds over several months.\nWhen's the best time to prioritize the development of a marketing strategy? | The best time is before you spend on execution - a strategy ensures your budget and effort are pointed at the right goals from day one.\nCan you develop strategies for businesses with limited marketing budgets? | Yes. We build flexible, prioritized plans that focus your limited budget on the highest-impact channels first.",
+      "cta_h2": "Ready to Build Your Digital Marketing Strategy?",
+      "cta_text": "Partner with a digital strategy agency that's obsessed with your results. Tell us about your goals and we'll map a clear path to get there - no commitment required.",
+      "cta_btn1_text": "Get My Free Proposal",
+      "cta_btn1_url": "/",
+      "cta_btn2_text": "Call 866-908-4748",
+      "intro_h2": "You Know What You Want, But You're Not Sure How to Get There",
+      "intro_sub": "We Ensure You Don't Take the Wrong Turn En Route to Success",
+      "intro_body": "A recent report revealed that nearly 50% of businesses don't have a clearly defined online marketing strategy to steer their digital marketing efforts. This means many market leaders are investing their time, money and resources in organic and paid digital marketing services without a well-planned approach for goal setting and achievement, task prioritization, marketing direction and budget and resource allocation.\n\nWhere are you now? Where do you want to be? What is the best approach to achieve your business goals? Where does your digital marketing budget go? Our digital strategy company addresses these questions to help you generate lucrative online marketing ideas and get you to your desired destination.\n\nLet us assist you in building a robust online digital marketing strategy framework for your brand. Get your digital marketing campaign moving with Thrive Internet Marketing Agency."
+    }
+  },
+  "dms_testimonials": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "headline": "A very important part of our success.",
+        "quote": "Unlike other agencies, Thrive’s specialists have always been actively engaged and there is never radio silence from them. It’s like they have been an extension of our team, and we could always rely on them for insight and questions that we have. Thrive has been a very important part of our success. They’re going to be a very important part of your team and definitely a long-term partner. I highly recommend Thrive.",
+        "author": "eCommerce Business"
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "headline": "Thrive knows how to manage their time and get the most efficient results.",
+        "quote": "Their ability to bring innovative ideas to use, they think outside of the box and they are always planning ahead. They fit their talent perfectly with our account. You guys got us 46,000 qualified calls and that was huge. Our previous agency would only get about 10,000 qualified calls in a year. You have to be able to be very flexible and agile for these franchise owners, and Thrive has done that well.",
+        "author": "Restoration 1"
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "headline": "Remarkable ability to deliver tangible results.",
+        "quote": "What sets Thrive Agency and Marizanne apart is their remarkable ability to deliver tangible results. Their strategies have significantly boosted our online presence, engagement, and conversion rates. If you’re searching for a social media agency that combines industry expertise, high-quality service, and a proven track record of delivering results, Thrive is your answer.",
+        "author": "Holyland Marketplace"
+      }
+    ]
+  },
+  "dms_tools": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "title": "Thrive Score",
+        "description": "Thrive Score is a marketing diagnostic tool that evaluates over 150 factors to provide a clear snapshot of your business’s current standing. This tool allows our digital marketing company to track progress and refine strategies for improved conversion rates.",
+        "image": "/assets/dms/thrive-scorenewimg.svg"
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "title": "Thrive Stats",
+        "description": "Easily monitor your online marketing service performance across channels from one dashboard. Thrive Stats transforms complex numbers into easy-to-understand visuals and actionable insights so you know exactly what’s happening on your campaigns.",
+        "image": "/assets/dms/thrive-statnew.svg"
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "title": "ThriveAI",
+        "description": "ThriveAI is a suite of artificial intelligence (AI)-powered tools designed to ensure your brand’s visibility on AI search. From tracking brand mentions on AI-generated responses to automating manual tasks, ThriveAI streamlines workflows and ensures your business stays top of mind.",
+        "image": "/assets/dms/ThriveAI-thumb.svg"
+      },
+      {
+        "id": 4,
+        "status": "published",
+        "sort": 4,
+        "title": "Thrive Local",
+        "description": "Thrive Local is a pay-for-performance tool that makes it easier than ever to ensure consistent branding and optimized visibility across local markets. This AI-powered software automates reputation management and local marketing, enabling you to focus on business growth.",
+        "image": "/assets/menu/local/thrive-growth-icon.svg"
+      }
+    ]
+  },
+  "header": {
+    "singleton": true,
+    "data": {
+      "id": 1,
+      "logo_text": "thrive",
+      "phone": "843-353-6383",
+      "logo_url": "/thrive-logo.svg"
+    }
+  },
+  "homepage": {
+    "singleton": true,
+    "data": {
+      "id": 1,
+      "seo_title": "Digital Marketing Agency Driven by Relationships and Results | Thrive",
+      "seo_description": "Thrive is a digital marketing agency that delivers booked leads and measurable revenue growth. Free strategy proposal, no long-term contracts.",
+      "hero_eyebrow": "Free Digital Marketing Strategy, No Commitment",
+      "hero_heading_pre": "Digital Marketing Agency Driven by",
+      "hero_heading_em": "Relationships and Results",
+      "hero_sub": "Since 2005, Thrive has grown over 8,000 businesses with strategy-first digital marketing. A senior marketing consultant reaches out within 5 minutes to scope your free proposal.",
+      "hero_trust_list": "No long-term contracts\n20+ years, 8,000+ businesses grown\nFree strategy proposal\nGoogle Premier Partner",
+      "hero_team_label": "Get scheduled with a senior marketing consultant within 5 minutes",
+      "form_eyebrow": "Free Proposal · No Commitment",
+      "form_headline": "Get Your FREE Digital Marketing Proposal",
+      "form_sub": "Tell us about your business. A senior marketing consultant follows up within 5 minutes to scope a free strategy call.",
+      "form_button": "GET MY FREE PROPOSAL →",
+      "form_fineprint": "We respect your inbox. Used only for your proposal.",
+      "form_success_heading": "Got It, Proposal Incoming",
+      "form_success_text": "A senior marketing consultant will reach out within 5 minutes to schedule your strategy call. If urgent, call (888) 342-0534.",
+      "ts_google_num": "150+",
+      "ts_clutch_num": "100+",
+      "ts_reviews_text": "Over 1,000 Client Reviews",
+      "ts_reviews_url": "https://thriveagency.com/real-reviews-from-real-people/",
+      "awards_eyebrow": "Recognized By",
+      "results_h2": "Our Clients Get Results",
+      "results_sub": "Here are two recent wins, both built on the same proven playbook of strategy, execution and honest reporting.",
+      "results_cta_text": "SEE MORE CASE STUDIES",
+      "results_cta_url": "https://thriveagency.com/case-studies/",
+      "wins_h2": "More Results Across Industries",
+      "wins_sub": "The same strategy-first playbook compounds across every vertical we touch.",
+      "inc_headline": "How Thrive Grew Its Sales Qualified Leads by 1,258% in 5 Years",
+      "inc_body_html": "<p>We grew our own sales-qualified leads 1,258% by testing strategies internally first, then applying only the methods that proved out. <strong>We don't make promises, we show you real results.</strong></p>\n<p>By testing strategies internally and taking lessons learned, we've established proven methods for predictable results across a range of industries, business types and target audiences.</p>\n<p>We've experienced our own story of transformation, and you can trust us to implement the right strategies to make your company grow.</p>\n<p>Thrive has consistently ranked on the <a class=\"inc-link\" href=\"https://thriveagency.com/news/thrive-named-to-inc-5000-list-of-fastest-growing-companies-in-america-for-7th-consecutive-year/\" target=\"_blank\" rel=\"noopener\">Inc. 5000 list of the fastest-growing companies in the U.S.</a></p>\n<p><strong>In a span of 5 years, Thrive grew its sales qualified leads by 1,258% and its organic website traffic by 1,750%.</strong></p>",
+      "inc_cta_text": "LET'S GROW YOUR BUSINESS NOW",
+      "inc_cta_url": "#contactForm",
+      "voices_h2": "A Strategy-First Marketing Partner Since 2005",
+      "voices_body_html": "<p>Thrive Internet Marketing Agency has been an <strong>industry-leading digital marketing service provider</strong> since 2005, delivering results-driven work across SEO, PPC, web design and paid social. We've <strong>helped thousands of businesses grow</strong> by pairing a senior in-house team with a <strong>strategy-first approach</strong> and <strong>proprietary technology and tools</strong> that report on what's working in real time.</p>\n<p>We work with clients of all sizes, from startups to multi-location enterprises across the U.S., Canada, UK and dozens of other markets. Pricing scales with your budget. Every engagement runs on <strong>month-to-month contracts</strong>, so we have to earn the partnership every month.</p>",
+      "voices_cta_text": "GET MY FREE PROPOSAL",
+      "voices_cta_url": "#contactForm",
+      "aiv_h2_pre": "The Best AI SEO Agency for",
+      "aiv_h2_em": "AI Visibility",
+      "aiv_sub": "Helping Businesses Dominate Large Language Model AI Search",
+      "aiv_body_html": "<p>Rapid advances in generative artificial intelligence (AI) models have reshaped how content is discovered and consumed. Traditional search engine optimization (SEO) is no longer enough to reach those looking for your products or services. To stay visible online amid shifting algorithms, you need to optimize for AI-first discovery.</p>\n<p>Thrive is one of the <a href=\"https://thriveagency.com/thriveai/\" target=\"_blank\" rel=\"noopener\">top generative engine optimization companies</a> for AI visibility. Using our internal research and development (R&amp;D) department, we've been testing and perfecting AI SEO strategies for large language models (LLMs) while other agencies experiment with your budget.</p>",
+      "aiv_cta_text": "BUILD MY AI SEO STRATEGY",
+      "aiv_cta_url": "#contactForm",
+      "aiv_stat1_num": "+5,556%",
+      "aiv_stat1_lab": "AI Referral Traffic (2025)",
+      "aiv_stat2_num": "+404%",
+      "aiv_stat2_lab": "Gemini Traffic (2025)",
+      "aiv_stat3_num": "+1,078%",
+      "aiv_stat3_lab": "ChatGPT Search Traffic (2025)",
+      "grow_h2": "How We Grow Your Revenue",
+      "grow_body_html": "<p>Thrive stands apart from the more than 100,000 marketing companies with its <strong>proprietary technology</strong> that gives you complete visibility into your performance across channels.</p>\n<p>Our unrivaled tools give clients a unique advantage by turning raw data into clear, actionable insights. Combined with our <strong>proven, strategy-first approach,</strong> these tools maximize budget efficiency and drive measurable, meaningful results.</p>",
+      "rankings_h2": "Top Rankings Wherever Your Customers Search",
+      "rankings_sub": "Our clients appear when buyers go looking, from traditional search and Google Maps to AI assistants.",
+      "rk_pill1": "#1 in Google Search",
+      "rk_pill2": "#1 in Google Maps Search",
+      "rk_pill3": "#1 in ChatGPT Search",
+      "why_eyebrow": "Why Thrive",
+      "why_h2": "Why Choose Thrive as Your Digital Marketing Agency",
+      "why_body_html": "<p>We've provided comprehensive website marketing services to clients across industries since 2005. Our digital marketing services include a combination of conversion and management, with services like SEO, PPC, paid social, web design and development, eCommerce optimization, copywriting, conversion rate optimization (CRO) and more.</p>\n<p>You work with a U.S.-based team of 160+ marketing specialists who answer the phone, share the same data you do and report transparently every month. Strategy, execution and reporting all live under one roof.</p>",
+      "why_team_h3": "What You Get When You Work with Us",
+      "why_cta_text": "SPEAK WITH AN INTERNET MARKETING CONSULTANT",
+      "why_cta_url": "#contactForm",
+      "closing_h2": "Ready to Grow Your Business?",
+      "closing_text": "If you're looking for the best marketing agency that delivers real results, not just clicks and impressions, you're in the right place. Contact us today to work with a results-driven digital marketing agency.",
+      "closing_cta1_text": "GET FREE PROPOSAL",
+      "closing_cta2_text": "CALL 888.342.0534",
+      "footer_h2_pre": "Ready to",
+      "footer_h2_em": "Grow",
+      "footer_desc_html": "Thrive Internet Marketing Agency is a full-service digital marketing agency. Thrive offers <strong>affordable pricing</strong> for any size business, boasts a <strong>95% client retention rate</strong> and made the <strong>Inc. 5000 list</strong> of fastest-growing U.S. companies <strong>seven consecutive years</strong>.",
+      "footer_cta_h3": "Get Started",
+      "footer_cta_text": "Ready to speak with a marketing expert? Get a free proposal today."
+    }
+  },
+  "home_aiv": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "title": "AI Mode Visibility",
+        "url": "https://thriveagency.com/thriveai/",
+        "body": "Google AI Mode redefines how customers discover businesses, prioritizing zero-click answers over traditional search results. Thrive's AI SEO experts optimize your content for passage-level targeting and conversational queries to build topical authority that AI recognizes."
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "title": "AI Overviews Visibility",
+        "url": "https://thriveagency.com/thriveai/",
+        "body": "Get cited as a trusted source in Google AI Overviews and drive traffic even when users don't click through traditional results. Our LLM SEO approach structures content to answer layered user queries, earning authentic reviews and boosting your online presence."
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "title": "ChatGPT Search Optimization",
+        "url": "https://thriveagency.com/thriveai/",
+        "body": "Our ChatGPT SEO strategies leverage digital PR to build external brand mentions and create high-quality, digestible content that appears in the forums and authoritative sources the LLM pulls from."
+      },
+      {
+        "id": 4,
+        "status": "published",
+        "sort": 4,
+        "title": "Gemini Search Optimization",
+        "url": "https://thriveagency.com/thriveai/",
+        "body": "Optimize your content for Google's Gemini AI, the source behind AI Overviews and AI Mode. Our AI SEO experts create content using semantic comprehension and natural language that Gemini can easily interpret."
+      }
+    ]
+  },
+  "home_results": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "video_url": "https://www.youtube.com/watch?v=45Rs4sgWBL8",
+        "video_id": "45Rs4sgWBL8",
+        "quote": "\"Since we started working with Thrive, our SEO return on investment is in the 800% range.\"",
+        "attrib": "Owner, Qualis Roofing",
+        "stat1_num": "+7,725",
+        "stat1_lab": "Organic Sessions",
+        "stat2_num": "+2,000",
+        "stat2_lab": "Organic Conversions",
+        "stat3_num": "+25%",
+        "stat3_lab": "Conversion Rate",
+        "link_text": "Read the Qualis case study →",
+        "link_url": "https://thriveagency.com/case-study/qualis/"
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "video_url": "https://www.youtube.com/watch?v=3Kl8eMtstBs",
+        "video_id": "3Kl8eMtstBs",
+        "quote": "\"Thrive is handling business the way they said they would in the beginning.\"",
+        "attrib": "Owner, TruckAC+",
+        "stat1_num": "23X",
+        "stat1_lab": "Return on Ad Spend",
+        "stat2_num": "+$350K",
+        "stat2_lab": "Ad Revenue",
+        "stat3_num": "+1,092",
+        "stat3_lab": "Website Purchases",
+        "link_text": "Read the TruckAC+ case study →",
+        "link_url": "https://thriveagency.com/case-study/truckac/"
+      }
+    ]
+  },
+  "home_tools": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "logo": "/assets/tools/thrive-score-logo.png",
+        "heading": "",
+        "body_html": "The Thrive Score is a comprehensive evaluation process designed to assess our client's digital marketing efforts. We utilize a scoring matrix with <strong>over 150 factors</strong> that gauge the effectiveness of the client's current approach, providing insights into their strengths and highlighting opportunities for improvement.",
+        "learn_url": "https://thriveagency.com/digital-marketing-services/thrive-score/",
+        "visual": "/assets/tools/thrive-score-graphic.png"
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "logo": "/assets/tools/thrive-stats-logo.png",
+        "heading": "",
+        "body_html": "Gain visibility into your online performance with Thrive Stats, our proprietary reporting solution. Beyond tracking performance metrics, it transforms complex marketing data into actionable intelligence. Thrive Stats helps you understand your campaign status, why it matters and how we're optimizing for your success.",
+        "learn_url": "https://thriveagency.com/digital-marketing-services/thrive-stats/",
+        "visual": "/assets/tools/thrive-stats-screen-new.png"
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "logo": "/assets/tools/thrive-ai-logo.png",
+        "heading": "",
+        "body_html": "Before businesses caught on to AI search, Thrive had been testing and optimizing it for months. That experience powers ThriveAI, a suite of tools built to put your brand ahead of the curve. ThriveAI helps your business be recommended in AI search results in ChatGPT, Gemini, Google AI Overviews, AI Mode and several others. Through human expertise and AI insights, Thrive helps you earn visibility, build authority, improve sentiment and reach high-intent audiences.",
+        "learn_url": "https://thriveagency.com/thriveai/",
+        "visual": "/assets/tools/thrive-ai-brands-new.png"
+      },
+      {
+        "id": 4,
+        "status": "published",
+        "sort": 4,
+        "logo": "/assets/tools/thrive-growth-formula-logo.png",
+        "heading": "",
+        "body_html": "We don't believe in wasted marketing spend. We take a <strong>strategy-first approach</strong> and follow our five-step GROWTH formula to optimize your customer journey and increase your conversion rate. Our team optimizes every touchpoint to consistently deliver better results.",
+        "learn_url": "https://thriveagency.com/thrive-growth-formula/",
+        "visual": "/assets/tools/thrive-growth-formula.gif"
+      },
+      {
+        "id": 5,
+        "status": "published",
+        "sort": 5,
+        "logo": "/assets/tools/thrive-local-logo.png",
+        "heading": "Pay-for-Performance Software and Service Solutions for Local Businesses",
+        "body_html": "<p>Generate 5-star online reviews at scale, effortlessly attract leads and drive real growth with our 100% done-for-you online reputation management and lead generation solutions.</p>\n<p>Thrive Local's AI-powered software seamlessly integrates with major platforms to streamline your processes.</p>\n<p>From your local business listings to your online reviews, our team of experts is here to protect and enhance your digital presence for tangible, long-term results.</p>",
+        "learn_url": "https://thriveagency.com/thrive-local/",
+        "visual": "/assets/tools/thrive-local-phone-new.png"
+      }
+    ]
+  },
+  "home_values": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "title": "We Have Proven Results",
+        "body": "Our team has driven proven results for businesses across more than 100 industries. We build strategy from real account data, then execute, optimize and report transparently. Every campaign ships with the metrics that map back to revenue, not vanity dashboards."
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "title": "We Are Honest and Ethical",
+        "body": "We tell you what's working and what isn't. We don't upsell services you don't need, we don't hide reporting behind paywalls and our pricing is transparent from the first proposal. Our people are full-time Thrive employees in your time zone."
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "title": "We Know Digital Marketing",
+        "body": "20+ years of digital marketing experience across SEO, PPC, paid social, web design, eCommerce, content, conversion rate optimization and AI search. Google Premier Partner, Meta Business Partner and Microsoft Advertising Partner accreditations."
+      },
+      {
+        "id": 4,
+        "status": "published",
+        "sort": 4,
+        "title": "We Put Customers First",
+        "body": "You get a dedicated senior marketing consultant, a strategist and a delivery team. We answer calls and emails the same day, and we treat your budget like our own. Over 1,000 clients have trusted us with their growth since 2005."
+      }
+    ]
+  },
+  "home_wins": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "pill": "Higher Education",
+        "logo": "/assets/home/client-brazos.webp",
+        "hero_num": "+300%",
+        "hero_lab": "Avg Monthly Visits",
+        "stat1": "+40%|total loan volume",
+        "stat2": "+156%|ad conversions",
+        "services": "Web design, SEO, PPC, content, social and email",
+        "link_text": "Read the Brazos case study →",
+        "link_url": "https://thriveagency.com/case-study/brazos-higher-education/"
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "pill": "Health Insurance",
+        "logo": "/assets/home/client-ushealth.webp",
+        "hero_num": "10X",
+        "hero_lab": "Annual Revenue Growth",
+        "stat1": "+$2M|annual revenue",
+        "stat2": "+558%|organic conversions",
+        "services": "PPC, SEO, web design and organic social",
+        "link_text": "Read the USHealth case study →",
+        "link_url": "https://thriveagency.com/case-study/u-s-based-health-insurance-provider/"
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "pill": "HVAC",
+        "logo": "/assets/client-max-mechanical.webp",
+        "hero_num": "+763%",
+        "hero_lab": "Qualified Leads",
+        "stat1": "+349|top-5 keyword rankings",
+        "stat2": "-15.97%|bounce rate",
+        "services": "Web design, SEO and PPC",
+        "link_text": "Read the Max Mechanical case study →",
+        "link_url": "https://thriveagency.com/case-study/max-mechanical/"
+      },
+      {
+        "id": 4,
+        "status": "published",
+        "sort": 4,
+        "pill": "Property Restoration",
+        "logo": "/assets/client-restoration-1.webp",
+        "hero_num": "+452%",
+        "hero_lab": "Conversions",
+        "stat1": "+30%|engaged sessions",
+        "stat2": "-41%|bounce rate",
+        "services": "SEO, web design, PPC and reputation management",
+        "link_text": "Read the Restoration 1 case study →",
+        "link_url": "https://thriveagency.com/case-study/restoration-1/"
+      },
+      {
+        "id": 5,
+        "status": "published",
+        "sort": 5,
+        "pill": "Painting",
+        "logo": "/assets/spray-tex-logo.png",
+        "hero_num": "+332%",
+        "hero_lab": "Ad Conversion Value",
+        "stat1": "+3,800%|branded campaign performance",
+        "stat2": "+60%|click-through rate",
+        "services": "PPC",
+        "link_text": "Read the Spray Tex case study →",
+        "link_url": "https://thriveagency.com/case-study/interior-and-exterior-painting-company/"
+      },
+      {
+        "id": 6,
+        "status": "published",
+        "sort": 6,
+        "pill": "Early Childhood Education",
+        "logo": "/assets/home/client-cadence.webp",
+        "hero_num": "+223%",
+        "hero_lab": "Google Ads Conversions",
+        "stat1": "+10.4K|paid search conversions",
+        "stat2": "+15M|paid social impressions",
+        "services": "Google Ads and Meta Ads",
+        "link_text": "Read the Cadence case study →",
+        "link_url": "https://thriveagency.com/case-study/early-childhood-education-franchise/"
+      }
+    ]
+  },
+  "leads": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "name": "Test Lead",
+        "email": "lead@example.com",
+        "website": "https://acme.test",
+        "message": "Interested in SEO and PPC.",
+        "date_created": "2026-06-03T16:16:24.000Z"
+      },
+      {
+        "id": 2,
+        "name": "Paras Sharma",
+        "email": "st.parassharma@gmail.com",
+        "website": "https://apple.com",
+        "message": "test",
+        "date_created": "2026-06-03T16:42:24.000Z"
+      },
+      {
+        "id": 3,
+        "name": "Email Test Lead",
+        "email": "st.parassharma@gmail.com",
+        "website": "https://thrive.test",
+        "message": "Checking email notification flow.\nSecond line.",
+        "date_created": "2026-06-03T16:57:17.000Z"
+      },
+      {
+        "id": 4,
+        "name": "Email Test Lead",
+        "email": "st.parassharma@gmail.com",
+        "website": "https://thrive.test",
+        "message": "Checking email notification with the new app password.",
+        "date_created": "2026-06-03T16:59:00.000Z"
+      },
+      {
+        "id": 5,
+        "name": "Paras Sharma",
+        "email": "st.parassharma@gmail.com",
+        "website": "https://unmiss.com",
+        "message": "unmiss",
+        "date_created": "2026-06-03T17:00:37.000Z"
+      },
+      {
+        "id": 6,
+        "name": "Aanya Verma",
+        "email": "st.parassharma@gmail.com",
+        "website": "https://demo.test",
+        "message": "Testing notification + auto-reply.",
+        "date_created": "2026-06-03T17:07:23.000Z"
+      }
+    ]
+  },
+  "mega_menu": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 124,
+        "status": "published",
+        "sort": 1,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "Digital Marketing",
+        "icon": "",
+        "label": "Digital Marketing Strategy Development",
+        "url": "/digital-marketing-services/digital-marketing-strategy-development/",
+        "category_url": "/digital-marketing-services/",
+        "image": "/assets/menu/services/Commercial-image.svg"
+      },
+      {
+        "id": 125,
+        "status": "published",
+        "sort": 2,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "Digital Marketing",
+        "icon": "",
+        "label": "Franchise Digital Marketing",
+        "url": "/digital-marketing-services/franchise-digital-marketing/",
+        "category_url": "/digital-marketing-services/",
+        "image": "/assets/menu/services/Commercial-image.svg"
+      },
+      {
+        "id": 126,
+        "status": "published",
+        "sort": 3,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "Digital Marketing",
+        "icon": "",
+        "label": "Enterprise Digital Marketing",
+        "url": "/digital-marketing-services/enterprise-digital-marketing/",
+        "category_url": "/digital-marketing-services/",
+        "image": "/assets/menu/services/Commercial-image.svg"
+      },
+      {
+        "id": 127,
+        "status": "published",
+        "sort": 4,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "Search Engine Optimization (SEO)",
+        "icon": "",
+        "label": "Local SEO",
+        "url": "/digital-marketing-services/local-seo/",
+        "category_url": "/digital-marketing-services/search-engine-optimization-seo/",
+        "image": "/assets/menu/services/SEO.svg"
+      },
+      {
+        "id": 128,
+        "status": "published",
+        "sort": 5,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "Search Engine Optimization (SEO)",
+        "icon": "",
+        "label": "Technical SEO",
+        "url": "/digital-marketing-services/technical-seo/",
+        "category_url": "/digital-marketing-services/search-engine-optimization-seo/",
+        "image": "/assets/menu/services/SEO.svg"
+      },
+      {
+        "id": 129,
+        "status": "published",
+        "sort": 6,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "Search Engine Optimization (SEO)",
+        "icon": "",
+        "label": "AI SEO Services",
+        "url": "/digital-marketing-services/ai-seo-services/",
+        "category_url": "/digital-marketing-services/search-engine-optimization-seo/",
+        "image": "/assets/menu/services/SEO.svg"
+      },
+      {
+        "id": 130,
+        "status": "published",
+        "sort": 7,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "Search Engine Optimization (SEO)",
+        "icon": "",
+        "label": "Franchise SEO",
+        "url": "/digital-marketing-services/franchise-seo/",
+        "category_url": "/digital-marketing-services/search-engine-optimization-seo/",
+        "image": "/assets/menu/services/SEO.svg"
+      },
+      {
+        "id": 131,
+        "status": "published",
+        "sort": 8,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "Search Engine Optimization (SEO)",
+        "icon": "",
+        "label": "Enterprise SEO",
+        "url": "/digital-marketing-services/enterprise-seo-services/",
+        "category_url": "/digital-marketing-services/search-engine-optimization-seo/",
+        "image": "/assets/menu/services/SEO.svg"
+      },
+      {
+        "id": 132,
+        "status": "published",
+        "sort": 9,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "Search Engine Optimization (SEO)",
+        "icon": "",
+        "label": "SEO Audits",
+        "url": "/digital-marketing-services/seo-audit-services/",
+        "category_url": "/digital-marketing-services/search-engine-optimization-seo/",
+        "image": "/assets/menu/services/SEO.svg"
+      },
+      {
+        "id": 133,
+        "status": "published",
+        "sort": 10,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "Search Engine Optimization (SEO)",
+        "icon": "",
+        "label": "Franchise SEO Audit",
+        "url": "/digital-marketing-services/franchise-seo-audit-services/",
+        "category_url": "/digital-marketing-services/search-engine-optimization-seo/",
+        "image": "/assets/menu/services/SEO.svg"
+      },
+      {
+        "id": 134,
+        "status": "published",
+        "sort": 11,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "Search Engine Optimization (SEO)",
+        "icon": "",
+        "label": "Enterprise SEO Audit",
+        "url": "/digital-marketing-services/enterprise-seo-audit-services/",
+        "category_url": "/digital-marketing-services/search-engine-optimization-seo/",
+        "image": "/assets/menu/services/SEO.svg"
+      },
+      {
+        "id": 135,
+        "status": "published",
+        "sort": 12,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "CRO Services",
+        "icon": "",
+        "label": "CRO Audits",
+        "url": "/digital-marketing-services/cro-audit/",
+        "category_url": "/digital-marketing-services/conversion-rate-optimization/",
+        "image": "/assets/menu/services/Commercial.svg"
+      },
+      {
+        "id": 136,
+        "status": "published",
+        "sort": 13,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "CRO Services",
+        "icon": "",
+        "label": "User Experience Testing",
+        "url": "/digital-marketing-services/user-experience-testing/",
+        "category_url": "/digital-marketing-services/conversion-rate-optimization/",
+        "image": "/assets/menu/services/Commercial.svg"
+      },
+      {
+        "id": 137,
+        "status": "published",
+        "sort": 14,
+        "menu": "SERVICES",
+        "column": 1,
+        "category": "CRO Services",
+        "icon": "",
+        "label": "User Behavior Analytics",
+        "url": "/digital-marketing-services/user-behavior-analytics/",
+        "category_url": "/digital-marketing-services/conversion-rate-optimization/",
+        "image": "/assets/menu/services/Commercial.svg"
+      },
+      {
+        "id": 138,
+        "status": "published",
+        "sort": 15,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Pay Per Click (PPC) Marketing",
+        "icon": "",
+        "label": "Search Engine Marketing (SEM)",
+        "url": "/digital-marketing-services/search-engine-marketing/",
+        "category_url": "/digital-marketing-services/pay-per-click-ppc/",
+        "image": "/assets/menu/services/pay-per-click-img.svg"
+      },
+      {
+        "id": 139,
+        "status": "published",
+        "sort": 16,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Pay Per Click (PPC) Marketing",
+        "icon": "",
+        "label": "Google Ads Management",
+        "url": "/digital-marketing-services/google-ads-management-services/",
+        "category_url": "/digital-marketing-services/pay-per-click-ppc/",
+        "image": "/assets/menu/services/pay-per-click-img.svg"
+      },
+      {
+        "id": 140,
+        "status": "published",
+        "sort": 17,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Pay Per Click (PPC) Marketing",
+        "icon": "",
+        "label": "YouTube Ads Management",
+        "url": "/digital-marketing-services/youtube-advertising-services/",
+        "category_url": "/digital-marketing-services/pay-per-click-ppc/",
+        "image": "/assets/menu/services/pay-per-click-img.svg"
+      },
+      {
+        "id": 141,
+        "status": "published",
+        "sort": 18,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Pay Per Click (PPC) Marketing",
+        "icon": "",
+        "label": "Programmatic Advertising",
+        "url": "/digital-marketing-services/programmatic-advertising/",
+        "category_url": "/digital-marketing-services/pay-per-click-ppc/",
+        "image": "/assets/menu/services/pay-per-click-img.svg"
+      },
+      {
+        "id": 142,
+        "status": "published",
+        "sort": 19,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Pay Per Click (PPC) Marketing",
+        "icon": "",
+        "label": "Lead Generation Services",
+        "url": "/digital-marketing-services/lead-generation-services/",
+        "category_url": "/digital-marketing-services/pay-per-click-ppc/",
+        "image": "/assets/menu/services/pay-per-click-img.svg"
+      },
+      {
+        "id": 143,
+        "status": "published",
+        "sort": 20,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Pay Per Click (PPC) Marketing",
+        "icon": "",
+        "label": "Franchise PPC",
+        "url": "/franchise-ppc-marketing/",
+        "category_url": "/digital-marketing-services/pay-per-click-ppc/",
+        "image": "/assets/menu/services/pay-per-click-img.svg"
+      },
+      {
+        "id": 144,
+        "status": "published",
+        "sort": 21,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Pay Per Click (PPC) Marketing",
+        "icon": "",
+        "label": "Enterprise PPC",
+        "url": "/enterprise-ppc-marketing/",
+        "category_url": "/digital-marketing-services/pay-per-click-ppc/",
+        "image": "/assets/menu/services/pay-per-click-img.svg"
+      },
+      {
+        "id": 145,
+        "status": "published",
+        "sort": 22,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Social Media Marketing",
+        "icon": "",
+        "label": "Social Media Management",
+        "url": "/digital-marketing-services/social-media-management/",
+        "category_url": "/digital-marketing-services/social-media/",
+        "image": "/assets/menu/services/social-media-1.svg"
+      },
+      {
+        "id": 146,
+        "status": "published",
+        "sort": 23,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Social Media Marketing",
+        "icon": "",
+        "label": "Social Media Brand Management",
+        "url": "/digital-marketing-services/social-media/social-media-brand-management/",
+        "category_url": "/digital-marketing-services/social-media/",
+        "image": "/assets/menu/services/social-media-1.svg"
+      },
+      {
+        "id": 147,
+        "status": "published",
+        "sort": 24,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Social Media Marketing",
+        "icon": "",
+        "label": "Franchise Social Media",
+        "url": "/digital-marketing-services/franchise-social-media-marketing/",
+        "category_url": "/digital-marketing-services/social-media/",
+        "image": "/assets/menu/services/social-media-1.svg"
+      },
+      {
+        "id": 148,
+        "status": "published",
+        "sort": 25,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Social Media Marketing",
+        "icon": "",
+        "label": "Enterprise Social Media",
+        "url": "/digital-marketing-services/enterprise-social-media-marketing/",
+        "category_url": "/digital-marketing-services/social-media/",
+        "image": "/assets/menu/services/social-media-1.svg"
+      },
+      {
+        "id": 149,
+        "status": "published",
+        "sort": 26,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Social Media Advertising",
+        "icon": "",
+        "label": "Facebook",
+        "url": "/digital-marketing-services/facebook-advertising/",
+        "category_url": "/digital-marketing-services/social-media/social-media-advertising/",
+        "image": "/assets/menu/services/social-media-adver-img.svg"
+      },
+      {
+        "id": 150,
+        "status": "published",
+        "sort": 27,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Social Media Advertising",
+        "icon": "",
+        "label": "LinkedIn",
+        "url": "/digital-marketing-services/linkedin-advertising/",
+        "category_url": "/digital-marketing-services/social-media/social-media-advertising/",
+        "image": "/assets/menu/services/social-media-adver-img.svg"
+      },
+      {
+        "id": 151,
+        "status": "published",
+        "sort": 28,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Social Media Advertising",
+        "icon": "",
+        "label": "Twitter",
+        "url": "/digital-marketing-services/twitter-advertising/",
+        "category_url": "/digital-marketing-services/social-media/social-media-advertising/",
+        "image": "/assets/menu/services/social-media-adver-img.svg"
+      },
+      {
+        "id": 152,
+        "status": "published",
+        "sort": 29,
+        "menu": "SERVICES",
+        "column": 2,
+        "category": "Social Media Advertising",
+        "icon": "",
+        "label": "Instagram",
+        "url": "/digital-marketing-services/instagram-marketing-agency/",
+        "category_url": "/digital-marketing-services/social-media/social-media-advertising/",
+        "image": "/assets/menu/services/social-media-adver-img.svg"
+      },
+      {
+        "id": 153,
+        "status": "published",
+        "sort": 30,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Link Building",
+        "icon": "",
+        "label": "Digital PR Outreach",
+        "url": "/digital-marketing-services/digital-pr-services/",
+        "category_url": "/digital-marketing-services/link-building/",
+        "image": "/assets/menu/services/link-building-img.svg"
+      },
+      {
+        "id": 154,
+        "status": "published",
+        "sort": 31,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Link Building",
+        "icon": "",
+        "label": "HARO Link Building",
+        "url": "/digital-marketing-services/haro-link-building/",
+        "category_url": "/digital-marketing-services/link-building/",
+        "image": "/assets/menu/services/link-building-img.svg"
+      },
+      {
+        "id": 155,
+        "status": "published",
+        "sort": 32,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Web Design & Development",
+        "icon": "",
+        "label": "Branding Services",
+        "url": "/digital-marketing-services/branding-services/",
+        "category_url": "/digital-marketing-services/web-design/",
+        "image": "/assets/menu/services/web-design-img.svg"
+      },
+      {
+        "id": 156,
+        "status": "published",
+        "sort": 33,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Web Design & Development",
+        "icon": "",
+        "label": "Custom Website Design",
+        "url": "/digital-marketing-services/custom-website-design/",
+        "category_url": "/digital-marketing-services/web-design/",
+        "image": "/assets/menu/services/web-design-img.svg"
+      },
+      {
+        "id": 157,
+        "status": "published",
+        "sort": 34,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Web Design & Development",
+        "icon": "",
+        "label": "WordPress Website Design",
+        "url": "/digital-marketing-services/wordpress-website-design/",
+        "category_url": "/digital-marketing-services/web-design/",
+        "image": "/assets/menu/services/web-design-img.svg"
+      },
+      {
+        "id": 158,
+        "status": "published",
+        "sort": 35,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Web Design & Development",
+        "icon": "",
+        "label": "Website Hosting",
+        "url": "/digital-marketing-services/web-design/website-hosting/",
+        "category_url": "/digital-marketing-services/web-design/",
+        "image": "/assets/menu/services/web-design-img.svg"
+      },
+      {
+        "id": 159,
+        "status": "published",
+        "sort": 36,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Web Design & Development",
+        "icon": "",
+        "label": "ADA Compliance Services",
+        "url": "/digital-marketing-services/ada-compliance-services/",
+        "category_url": "/digital-marketing-services/web-design/",
+        "image": "/assets/menu/services/web-design-img.svg"
+      },
+      {
+        "id": 160,
+        "status": "published",
+        "sort": 37,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Media Production",
+        "icon": "",
+        "label": "Video Production",
+        "url": "/digital-marketing-services/video-production-services/",
+        "category_url": "/digital-marketing-services/media-production-services/",
+        "image": "/assets/menu/services/media-production-img.svg"
+      },
+      {
+        "id": 161,
+        "status": "published",
+        "sort": 38,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Media Production",
+        "icon": "",
+        "label": "Video Testimonial Services",
+        "url": "/digital-marketing-services/video-testimonial-services/",
+        "category_url": "/digital-marketing-services/media-production-services/",
+        "image": "/assets/menu/services/media-production-img.svg"
+      },
+      {
+        "id": 162,
+        "status": "published",
+        "sort": 39,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Media Production",
+        "icon": "",
+        "label": "Product Photography Services",
+        "url": "/digital-marketing-services/product-photography/",
+        "category_url": "/digital-marketing-services/media-production-services/",
+        "image": "/assets/menu/services/media-production-img.svg"
+      },
+      {
+        "id": 163,
+        "status": "published",
+        "sort": 40,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Media Production",
+        "icon": "",
+        "label": "Drone Video and Photography Services",
+        "url": "/digital-marketing-services/drone-video-and-photography-services/",
+        "category_url": "/digital-marketing-services/media-production-services/",
+        "image": "/assets/menu/services/media-production-img.svg"
+      },
+      {
+        "id": 164,
+        "status": "published",
+        "sort": 41,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Content Marketing",
+        "icon": "",
+        "label": "SEO Content Writing",
+        "url": "/digital-marketing-services/content-writing/",
+        "category_url": "/digital-marketing-services/content-marketing/",
+        "image": "/assets/menu/services/link-icon-img.svg"
+      },
+      {
+        "id": 165,
+        "status": "published",
+        "sort": 42,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Content Marketing",
+        "icon": "",
+        "label": "Copywriting Services",
+        "url": "/digital-marketing-services/copywriting-services/",
+        "category_url": "/digital-marketing-services/content-marketing/",
+        "image": "/assets/menu/services/link-icon-img.svg"
+      },
+      {
+        "id": 166,
+        "status": "published",
+        "sort": 43,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Content Marketing",
+        "icon": "",
+        "label": "Translation Services",
+        "url": "/digital-marketing-services/translation-services/",
+        "category_url": "/digital-marketing-services/content-marketing/",
+        "image": "/assets/menu/services/link-icon-img.svg"
+      },
+      {
+        "id": 167,
+        "status": "published",
+        "sort": 44,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Content Marketing",
+        "icon": "",
+        "label": "Email Marketing Services",
+        "url": "/digital-marketing-services/email-marketing-services/",
+        "category_url": "/digital-marketing-services/content-marketing/",
+        "image": "/assets/menu/services/link-icon-img.svg"
+      },
+      {
+        "id": 168,
+        "status": "published",
+        "sort": 45,
+        "menu": "SERVICES",
+        "column": 3,
+        "category": "Content Marketing",
+        "icon": "",
+        "label": "Outbound Marketing",
+        "url": "/digital-marketing-services/outbound-marketing/",
+        "category_url": "/digital-marketing-services/content-marketing/",
+        "image": "/assets/menu/services/link-icon-img.svg"
+      },
+      {
+        "id": 169,
+        "status": "published",
+        "sort": 46,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "eCommerce Marketing",
+        "icon": "",
+        "label": "eCommerce SEO",
+        "url": "/digital-marketing-services/ecommerce-seo/",
+        "category_url": "/digital-marketing-services/ecommerce-marketing/",
+        "image": "/assets/menu/services/ecommerce-img.svg"
+      },
+      {
+        "id": 170,
+        "status": "published",
+        "sort": 47,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "eCommerce Marketing",
+        "icon": "",
+        "label": "eCommerce PPC",
+        "url": "/digital-marketing-services/ecommerce-ppc/",
+        "category_url": "/digital-marketing-services/ecommerce-marketing/",
+        "image": "/assets/menu/services/ecommerce-img.svg"
+      },
+      {
+        "id": 171,
+        "status": "published",
+        "sort": 48,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "eCommerce Marketing",
+        "icon": "",
+        "label": "eCommerce Optimization",
+        "url": "/digital-marketing-services/ecommerce-optimization/",
+        "category_url": "/digital-marketing-services/ecommerce-marketing/",
+        "image": "/assets/menu/services/ecommerce-img.svg"
+      },
+      {
+        "id": 172,
+        "status": "published",
+        "sort": 49,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "eCommerce Marketing",
+        "icon": "",
+        "label": "Shopify SEO",
+        "url": "/digital-marketing-services/shopify-seo/",
+        "category_url": "/digital-marketing-services/ecommerce-marketing/",
+        "image": "/assets/menu/services/ecommerce-img.svg"
+      },
+      {
+        "id": 173,
+        "status": "published",
+        "sort": 50,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "eCommerce Marketing",
+        "icon": "",
+        "label": "Shopify Web Design",
+        "url": "/digital-marketing-services/shopify-web-designers/",
+        "category_url": "/digital-marketing-services/ecommerce-marketing/",
+        "image": "/assets/menu/services/ecommerce-img.svg"
+      },
+      {
+        "id": 174,
+        "status": "published",
+        "sort": 51,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "eCommerce Marketing",
+        "icon": "",
+        "label": "eCommerce Web Design",
+        "url": "/digital-marketing-services/ecommerce-website-design/",
+        "category_url": "/digital-marketing-services/ecommerce-marketing/",
+        "image": "/assets/menu/services/ecommerce-img.svg"
+      },
+      {
+        "id": 175,
+        "status": "published",
+        "sort": 52,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "Online Marketplace Marketing",
+        "icon": "",
+        "label": "Amazon Marketing Services",
+        "url": "/digital-marketing-services/amazon-marketing/",
+        "category_url": "/digital-marketing-services/online-marketplace-marketing/",
+        "image": "/assets/menu/services/online-marketplace-img.svg"
+      },
+      {
+        "id": 176,
+        "status": "published",
+        "sort": 53,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "Online Marketplace Marketing",
+        "icon": "",
+        "label": "Amazon SEO",
+        "url": "/digital-marketing-services/amazon-seo-services/",
+        "category_url": "/digital-marketing-services/online-marketplace-marketing/",
+        "image": "/assets/menu/services/online-marketplace-img.svg"
+      },
+      {
+        "id": 177,
+        "status": "published",
+        "sort": 54,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "Online Marketplace Marketing",
+        "icon": "",
+        "label": "Amazon Advertising/PPC",
+        "url": "/digital-marketing-services/amazon-ppc/",
+        "category_url": "/digital-marketing-services/online-marketplace-marketing/",
+        "image": "/assets/menu/services/online-marketplace-img.svg"
+      },
+      {
+        "id": 178,
+        "status": "published",
+        "sort": 55,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "Online Marketplace Marketing",
+        "icon": "",
+        "label": "Amazon Storefront & Branding",
+        "url": "/digital-marketing-services/amazon-storefront-branding-services/",
+        "category_url": "/digital-marketing-services/online-marketplace-marketing/",
+        "image": "/assets/menu/services/online-marketplace-img.svg"
+      },
+      {
+        "id": 179,
+        "status": "published",
+        "sort": 56,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "Online Marketplace Marketing",
+        "icon": "",
+        "label": "Amazon Seller Consulting",
+        "url": "/digital-marketing-services/amazon-seller-consulting/",
+        "category_url": "/digital-marketing-services/online-marketplace-marketing/",
+        "image": "/assets/menu/services/online-marketplace-img.svg"
+      },
+      {
+        "id": 180,
+        "status": "published",
+        "sort": 57,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "Online Marketplace Marketing",
+        "icon": "",
+        "label": "Amazon Posts Management",
+        "url": "/digital-marketing-services/amazon-posts-management/",
+        "category_url": "/digital-marketing-services/online-marketplace-marketing/",
+        "image": "/assets/menu/services/online-marketplace-img.svg"
+      },
+      {
+        "id": 181,
+        "status": "published",
+        "sort": 58,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "Online Marketplace Marketing",
+        "icon": "",
+        "label": "Amazon DSP Advertising Management",
+        "url": "/digital-marketing-services/amazon-dsp-advertising-management/",
+        "category_url": "/digital-marketing-services/online-marketplace-marketing/",
+        "image": "/assets/menu/services/online-marketplace-img.svg"
+      },
+      {
+        "id": 182,
+        "status": "published",
+        "sort": 59,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "Online Marketplace Marketing",
+        "icon": "",
+        "label": "Walmart Marketplace",
+        "url": "/digital-marketing-services/walmart-marketplace/",
+        "category_url": "/digital-marketing-services/online-marketplace-marketing/",
+        "image": "/assets/menu/services/online-marketplace-img.svg"
+      },
+      {
+        "id": 183,
+        "status": "published",
+        "sort": 60,
+        "menu": "SERVICES",
+        "column": 4,
+        "category": "Online Marketplace Marketing",
+        "icon": "",
+        "label": "Target Plus Marketplace",
+        "url": "/digital-marketing-services/target-plus-marketplace/",
+        "category_url": "/digital-marketing-services/online-marketplace-marketing/",
+        "image": "/assets/menu/services/online-marketplace-img.svg"
+      },
+      {
+        "id": 184,
+        "status": "published",
+        "sort": 1,
+        "menu": "LOCAL",
+        "column": 1,
+        "category": "Reputation Management",
+        "icon": "",
+        "label": "Reputation Management Software",
+        "url": "/digital-marketing-services/reputation-management-software/",
+        "category_url": "/digital-marketing-services/online-reputation-management/",
+        "image": "/assets/menu/local/Reputation-management.svg"
+      },
+      {
+        "id": 185,
+        "status": "published",
+        "sort": 2,
+        "menu": "LOCAL",
+        "column": 1,
+        "category": "Reputation Management",
+        "icon": "",
+        "label": "Reputation Repair",
+        "url": "/digital-marketing-services/online-reputation-repair/",
+        "category_url": "/digital-marketing-services/online-reputation-management/",
+        "image": "/assets/menu/local/Reputation-management.svg"
+      },
+      {
+        "id": 186,
+        "status": "published",
+        "sort": 3,
+        "menu": "LOCAL",
+        "column": 1,
+        "category": "Reputation Management",
+        "icon": "",
+        "label": "Social Media Reputation Management",
+        "url": "/digital-marketing-services/social-media-reputation-management/",
+        "category_url": "/digital-marketing-services/online-reputation-management/",
+        "image": "/assets/menu/local/Reputation-management.svg"
+      },
+      {
+        "id": 187,
+        "status": "published",
+        "sort": 4,
+        "menu": "LOCAL",
+        "column": 1,
+        "category": "Reputation Management",
+        "icon": "",
+        "label": "Franchise Reputation Management",
+        "url": "/digital-marketing-services/franchise-reputation-management/",
+        "category_url": "/digital-marketing-services/online-reputation-management/",
+        "image": "/assets/menu/local/Reputation-management.svg"
+      },
+      {
+        "id": 188,
+        "status": "published",
+        "sort": 5,
+        "menu": "LOCAL",
+        "column": 1,
+        "category": "Reputation Management",
+        "icon": "",
+        "label": "White Label Reputation Management",
+        "url": "/thrive-local/white-label-reputation-management-company/",
+        "category_url": "/digital-marketing-services/online-reputation-management/",
+        "image": "/assets/menu/local/Reputation-management.svg"
+      },
+      {
+        "id": 189,
+        "status": "published",
+        "sort": 6,
+        "menu": "LOCAL",
+        "column": 1,
+        "category": "SMS Marketing",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/thrive-local/sms-marketing-services/",
+        "image": "/assets/menu/local/local-message.svg"
+      },
+      {
+        "id": 190,
+        "status": "published",
+        "sort": 7,
+        "menu": "LOCAL",
+        "column": 1,
+        "category": "Thrive Local's Growth Acceleration Method",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/thrive-local/thrive-locals-growth-acceleration-method/",
+        "image": "/assets/menu/local/thrive-growth-icon.svg"
+      },
+      {
+        "id": 191,
+        "status": "published",
+        "sort": 8,
+        "menu": "LOCAL",
+        "column": 2,
+        "category": "Review Generation",
+        "icon": "",
+        "label": "Review Monitoring",
+        "url": "/thrive-local/review-monitoring-services/",
+        "category_url": "/thrive-local/review-generation-services/",
+        "image": "/assets/menu/local/review-generation.svg"
+      },
+      {
+        "id": 192,
+        "status": "published",
+        "sort": 9,
+        "menu": "LOCAL",
+        "column": 2,
+        "category": "Review Generation",
+        "icon": "",
+        "label": "Review Response",
+        "url": "/thrive-local/online-review-response-service/",
+        "category_url": "/thrive-local/review-generation-services/",
+        "image": "/assets/menu/local/review-generation.svg"
+      },
+      {
+        "id": 193,
+        "status": "published",
+        "sort": 10,
+        "menu": "LOCAL",
+        "column": 2,
+        "category": "Review Generation",
+        "icon": "",
+        "label": "Review Widget",
+        "url": "/thrive-local/review-widget/",
+        "category_url": "/thrive-local/review-generation-services/",
+        "image": "/assets/menu/local/review-generation.svg"
+      },
+      {
+        "id": 194,
+        "status": "published",
+        "sort": 11,
+        "menu": "LOCAL",
+        "column": 2,
+        "category": "Review Generation",
+        "icon": "",
+        "label": "Review Checker",
+        "url": "/thrive-local/online-review-checker/",
+        "category_url": "/thrive-local/review-generation-services/",
+        "image": "/assets/menu/local/review-generation.svg"
+      },
+      {
+        "id": 195,
+        "status": "published",
+        "sort": 12,
+        "menu": "LOCAL",
+        "column": 2,
+        "category": "Listings Management",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/thrive-local/listings-management/",
+        "image": "/assets/menu/local/local-listingicon.svg"
+      },
+      {
+        "id": 196,
+        "status": "published",
+        "sort": 13,
+        "menu": "LOCAL",
+        "column": 2,
+        "category": "Survey Campaign Management",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/thrive-local/survey-campaign-management/",
+        "image": "/assets/menu/local/survey-management-icon.svg"
+      },
+      {
+        "id": 197,
+        "status": "published",
+        "sort": 14,
+        "menu": "LOCAL",
+        "column": 3,
+        "category": "Insights Software",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/thrive-local/insights-software/",
+        "image": "/assets/menu/local/insight-software.svg"
+      },
+      {
+        "id": 198,
+        "status": "published",
+        "sort": 15,
+        "menu": "LOCAL",
+        "column": 3,
+        "category": "Web Chat",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/thrive-local/web-chat/",
+        "image": "/assets/menu/local/web-chat.svg"
+      },
+      {
+        "id": 199,
+        "status": "published",
+        "sort": 16,
+        "menu": "LOCAL",
+        "column": 3,
+        "category": "Referral Software",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/thrive-local/referrals/",
+        "image": "/assets/menu/local/Commercial-1.svg"
+      },
+      {
+        "id": 200,
+        "status": "published",
+        "sort": 17,
+        "menu": "LOCAL",
+        "column": 3,
+        "category": "Local SEO",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/local-seo/",
+        "image": "/assets/menu/local/Local-SEO.svg"
+      },
+      {
+        "id": 201,
+        "status": "published",
+        "sort": 18,
+        "menu": "LOCAL",
+        "column": 3,
+        "category": "Paid Ads Management",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/thrive-local/paid-ads-management/",
+        "image": "/assets/menu/local/pam.svg"
+      },
+      {
+        "id": 202,
+        "status": "published",
+        "sort": 19,
+        "menu": "LOCAL",
+        "column": 3,
+        "category": "Social Media Management Software",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/thrive-local/social-media-management/",
+        "image": "/assets/menu/local/Social-Media-Management-1.svg"
+      },
+      {
+        "id": 203,
+        "status": "published",
+        "sort": 1,
+        "menu": "ABOUT",
+        "column": 1,
+        "category": "Who We Are",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/about/",
+        "image": "/assets/menu/about/who-we-are-img.svg"
+      },
+      {
+        "id": 204,
+        "status": "published",
+        "sort": 2,
+        "menu": "ABOUT",
+        "column": 1,
+        "category": "Why Choose Us?",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/web-marketing-experts/",
+        "image": "/assets/menu/about/why-choose-img.svg"
+      },
+      {
+        "id": 205,
+        "status": "published",
+        "sort": 3,
+        "menu": "ABOUT",
+        "column": 1,
+        "category": "Thrive Score",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/digital-marketing-services/thrive-score/",
+        "image": "/assets/menu/about/thrive-score.svg"
+      },
+      {
+        "id": 206,
+        "status": "published",
+        "sort": 4,
+        "menu": "ABOUT",
+        "column": 1,
+        "category": "ThriveAI",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/thriveai/",
+        "image": "/assets/menu/about/ThriveAI-thumb.svg"
+      },
+      {
+        "id": 207,
+        "status": "published",
+        "sort": 5,
+        "menu": "ABOUT",
+        "column": 1,
+        "category": "Thrive Stats",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/thrive-stats/",
+        "image": "/assets/menu/about/thirve-stats.svg"
+      },
+      {
+        "id": 208,
+        "status": "published",
+        "sort": 6,
+        "menu": "ABOUT",
+        "column": 2,
+        "category": "Careers",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/about/careers/",
+        "image": "/assets/menu/about/careers-img.svg"
+      },
+      {
+        "id": 209,
+        "status": "published",
+        "sort": 7,
+        "menu": "ABOUT",
+        "column": 2,
+        "category": "Client Testimonials",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/real-reviews-from-real-people/",
+        "image": "/assets/menu/about/client-test-img.svg"
+      },
+      {
+        "id": 210,
+        "status": "published",
+        "sort": 8,
+        "menu": "ABOUT",
+        "column": 2,
+        "category": "Thrive Gives Back",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/thrive-gives-back/",
+        "image": "/assets/menu/about/thrive-gives-img.svg"
+      },
+      {
+        "id": 211,
+        "status": "published",
+        "sort": 9,
+        "menu": "ABOUT",
+        "column": 2,
+        "category": "Awards & Recognition",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/awards-recognition/",
+        "image": "/assets/menu/about/awards-img.svg"
+      },
+      {
+        "id": 212,
+        "status": "published",
+        "sort": 1,
+        "menu": "LEARN",
+        "column": 1,
+        "category": "Our Blog",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/blog/",
+        "image": "/assets/menu/learn/our-blog.svg"
+      },
+      {
+        "id": 213,
+        "status": "published",
+        "sort": 2,
+        "menu": "LEARN",
+        "column": 1,
+        "category": "AI Search Optimization Guide",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/ai-search-optimization/",
+        "image": "/assets/menu/learn/ai-searchoptimization-icon.svg"
+      },
+      {
+        "id": 214,
+        "status": "published",
+        "sort": 3,
+        "menu": "LEARN",
+        "column": 1,
+        "category": "Google Page Experience Guide",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/google-page-experience-guide/",
+        "image": "/assets/menu/learn/google-page-img.svg"
+      },
+      {
+        "id": 215,
+        "status": "published",
+        "sort": 4,
+        "menu": "LEARN",
+        "column": 1,
+        "category": "Request For Proposal (RFP) Templates",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/digital-marketing-rfp-template/",
+        "image": "/assets/menu/learn/rfp-icon.svg"
+      },
+      {
+        "id": 216,
+        "status": "published",
+        "sort": 5,
+        "menu": "LEARN",
+        "column": 2,
+        "category": "Thrive Growth Formula",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/thrive-growth-formula/",
+        "image": "/assets/menu/learn/thrive-growth-img.svg"
+      },
+      {
+        "id": 217,
+        "status": "published",
+        "sort": 6,
+        "menu": "LEARN",
+        "column": 2,
+        "category": "SEO Buyers' Guide",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/seo-buyers-guide/",
+        "image": "/assets/menu/learn/seo-buyers-img.svg"
+      },
+      {
+        "id": 218,
+        "status": "published",
+        "sort": 7,
+        "menu": "LEARN",
+        "column": 2,
+        "category": "Franchise Marketing Guide",
+        "icon": "",
+        "label": "",
+        "url": "",
+        "category_url": "/franchise-marketing-guide/",
+        "image": "/assets/menu/learn/franchise-marketing-img.svg"
+      }
+    ]
+  },
+  "nav_items": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "label": "SERVICES",
+        "url": "/services",
+        "has_dropdown": 1
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "label": "LOCAL",
+        "url": "#",
+        "has_dropdown": 1
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "label": "RESULTS",
+        "url": "#",
+        "has_dropdown": 1
+      },
+      {
+        "id": 4,
+        "status": "published",
+        "sort": 4,
+        "label": "ABOUT",
+        "url": "/about",
+        "has_dropdown": 1
+      },
+      {
+        "id": 5,
+        "status": "published",
+        "sort": 5,
+        "label": "LEARN",
+        "url": "#",
+        "has_dropdown": 1
+      },
+      {
+        "id": 6,
+        "status": "published",
+        "sort": 6,
+        "label": "CONTACT",
+        "url": "/",
+        "has_dropdown": 0
+      }
+    ]
+  },
+  "result_cards": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "menu": "RESULTS",
+        "title": "Case Studies",
+        "subtitle": "+360% Organic Traffic",
+        "image_url": "/assets/menu/menu-casestudy.png",
+        "url": "#"
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "menu": "RESULTS",
+        "title": "Client Testimonials",
+        "subtitle": "",
+        "image_url": "/assets/menu/client-testimonial.jpg",
+        "url": "#"
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "menu": "RESULTS",
+        "title": "Design Portfolio",
+        "subtitle": "",
+        "image_url": "/assets/menu/design-portfolio.jpg",
+        "url": "#"
+      },
+      {
+        "id": 4,
+        "status": "published",
+        "sort": 4,
+        "menu": "RESULTS",
+        "title": "Logo Design",
+        "subtitle": "",
+        "image_url": "/assets/menu/menu-logo-design.svg",
+        "url": "#"
+      },
+      {
+        "id": 5,
+        "status": "published",
+        "sort": 5,
+        "menu": "RESULTS",
+        "title": "Video Production",
+        "subtitle": "",
+        "image_url": "/assets/menu/menuvideo-production.svg",
+        "url": "#"
+      },
+      {
+        "id": 6,
+        "status": "published",
+        "sort": 1,
+        "menu": "LOCAL",
+        "title": "Thrive Local Case Studies",
+        "subtitle": "",
+        "image_url": "/assets/menu/local/thrive-local-case-image.jpg",
+        "url": "/thrive-local/thrive-local-case-studies/"
+      },
+      {
+        "id": 7,
+        "status": "published",
+        "sort": 2,
+        "menu": "LOCAL",
+        "title": "Thrive Local Client Testimonials",
+        "subtitle": "",
+        "image_url": "/assets/menu/local/thrive-local-testimonials-client.jpg",
+        "url": "/thrive-local/client-testimonials/"
+      }
+    ]
+  },
+  "search_page": {
+    "singleton": true,
+    "data": {
+      "id": 1,
+      "seo_title": "Search",
+      "results_heading": "Search Results For:",
+      "no_results_text": "Sorry, no posts were found.",
+      "empty_prompt": "Enter a term above to search the site.",
+      "input_placeholder": "Search this website"
+    }
+  },
+  "services_promo": {
+    "singleton": true,
+    "data": {
+      "id": 1,
+      "enabled": 1,
+      "heading": "Experience Real Results",
+      "description": "Partner with Thrive Internet Marketing Agency and scale your business.",
+      "group_image": "/assets/menu/services/resultgroup-image.png",
+      "input_placeholder": "Enter Your Website Address",
+      "button_text": "SEND MY FREE PROPOSAL",
+      "button_url": "/",
+      "logo_image": "/assets/menu/services/logo-1.svg",
+      "stat1_value": "+500%",
+      "stat1_label": "Impressions",
+      "stat2_value": "+60%",
+      "stat2_label": "New Followers",
+      "stat3_value": "+190%",
+      "stat3_label": "Engagement",
+      "phone_image": "/assets/menu/services/menu_smartphone_img01.png"
+    }
+  },
+  "strategy_faqs": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "question": "WHAT DOES A MARKETING STRATEGY AGENCY DO?",
+        "answer": "A marketing strategy agency helps identify your goals, target audiences, opportunities, strengths, weaknesses and most effective channels. It analyzes data and trends to create a custom roadmap that aligns tactics with goals for measurable success."
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "question": "WHY IS DIGITAL STRATEGY DEVELOPMENT IMPORTANT?",
+        "answer": "Strategy is the foundation for long-term success. Without a clear roadmap, businesses waste time and budget on disconnected efforts. A strategy ensures every campaign is tailored to your goals for a real competitive advantage."
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "question": "HOW DO YOU MEASURE THE SUCCESS OF A MARKETING STRATEGY?",
+        "answer": "We establish KPIs during planning — organic traffic growth, lead volume, conversion rates, customer acquisition cost and ROI — and provide detailed reports showing how each component contributes to your objectives."
+      },
+      {
+        "id": 4,
+        "status": "published",
+        "sort": 4,
+        "question": "HOW DOES A STRATEGIC DIGITAL MARKETING APPROACH WORK?",
+        "answer": "We set SMART goals, identify KPIs, understand your target audience and choose the right digital channels, ensuring all efforts — from paid ads to email — support one cohesive growth strategy."
+      },
+      {
+        "id": 5,
+        "status": "published",
+        "sort": 5,
+        "question": "WHAT INDUSTRIES BENEFIT FROM PROFESSIONAL MARKETING STRATEGIES?",
+        "answer": "Virtually any industry benefits. We build custom tactics that address the unique customer behaviors, market trends and sales cycles within your specific industry."
+      },
+      {
+        "id": 6,
+        "status": "published",
+        "sort": 6,
+        "question": "HOW LONG DOES IT TAKE TO SEE RESULTS?",
+        "answer": "Results vary based on the strategies implemented and your starting point. Thrive leverages data and analytics to deliver both short-term wins and long-term growth milestones."
+      },
+      {
+        "id": 7,
+        "status": "published",
+        "sort": 7,
+        "question": "WHEN’S THE BEST TIME TO PRIORITIZE A MARKETING STRATEGY?",
+        "answer": "If your business is seeking growth, struggling with disconnected efforts, or unsure where to focus resources, it’s time. Thrive evaluates your readiness and builds a roadmap for sustainable success."
+      },
+      {
+        "id": 8,
+        "status": "published",
+        "sort": 8,
+        "question": "CAN YOU DEVELOP STRATEGIES FOR LIMITED BUDGETS?",
+        "answer": "Absolutely. We work closely with you to maximize impact regardless of constraints, with budget optimization recommendations and phased implementation plans that prioritize high-impact, cost-effective tactics."
+      }
+    ]
+  },
+  "strategy_reasons": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "title": "Multidisciplinary Team",
+        "body": "Consultants with expertise across B2B/B2C social strategy, AdWords, Amazon advertising, Shopify marketing and SEO audits, with ongoing training on the latest industry developments."
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "title": "No Commitment Necessary",
+        "body": "Implement the strategy yourself, hand it to another agency, or have Thrive execute it — the engagement model is your choice."
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "title": "Established Reputation",
+        "body": "Thorough web audits, transparent results, clear issue identification, growth projections and strategic action plans backed by a proven track record."
+      },
+      {
+        "id": 4,
+        "status": "published",
+        "sort": 4,
+        "title": "Unified Plan Across Teams",
+        "body": "Every strategy — from B2B social to Shopify marketing to corporate plans — centers on your primary goals, with delivery teams aligned to your branding."
+      },
+      {
+        "id": 5,
+        "status": "published",
+        "sort": 5,
+        "title": "Custom Strategy Packages",
+        "body": "Tailored packages based on your budget, objectives, annual revenue and the locations you serve."
+      },
+      {
+        "id": 6,
+        "status": "published",
+        "sort": 6,
+        "title": "Holistic Strategy Approach",
+        "body": "We address all brand marketing areas — social content, eCommerce plans and SEO audits — with both SMB and enterprise options available."
+      }
+    ]
+  },
+  "testimonials": {
+    "singleton": false,
+    "data": [
+      {
+        "id": 1,
+        "status": "published",
+        "sort": 1,
+        "image": "/assets/Carousel%20Images/Hero_Graphic.png",
+        "alt": "Kelly Foster, Partner at Qualis Roofing & Construction: Thrive's approach was different and it was so much more comprehensive. They're able to represent the problem in ways that we hadn't thought of before."
+      },
+      {
+        "id": 2,
+        "status": "published",
+        "sort": 2,
+        "image": "/assets/Carousel%20Images/Hero_Graphic-1.png",
+        "alt": "Dustin Norris, Founder and President at Coach Specialists: Thrive came in and has shined for us. It was very streamlined. We didn't have to ask a lot of questions. They were forward thinking."
+      },
+      {
+        "id": 3,
+        "status": "published",
+        "sort": 3,
+        "image": "/assets/Carousel%20Images/Hero_Graphic-2.png",
+        "alt": "Katherine, Director of Marketing at Daryl Flood: My experience has been phenomenal. Our website's continuing to grow in rank. The traffic has increased. The quality leads have increased and we are also seeing higher and higher engagement."
+      },
+      {
+        "id": 4,
+        "status": "published",
+        "sort": 4,
+        "image": "/assets/Carousel%20Images/Hero_Graphic-3.png",
+        "alt": "Jeff Vosburg, General Manager at Ready Seal: We have had sustained growth ever since we've been with Thrive. They're just very knowledgeable on what they do and they're people of integrity. We're definitely thankful for them, it's a great partnership."
+      },
+      {
+        "id": 5,
+        "status": "published",
+        "sort": 5,
+        "image": "/assets/Carousel%20Images/Hero_Graphic-4.png",
+        "alt": "Eric Armstrong, President and CEO at Quick Roofing: My experience has been totally satisfying. I think that we are gonna create some great things, so I could not be happier."
+      },
+      {
+        "id": 6,
+        "status": "published",
+        "sort": 6,
+        "image": "/assets/Carousel%20Images/Hero_Graphic-5.png",
+        "alt": "Gary Singleton, President and CEO at Max Mechanical: Thrive is passionate, they're sincere, they're honest. They actually do what they say and even go above and beyond. With Thrive, you get more bang for your buck."
+      }
+    ]
+  }
+}
